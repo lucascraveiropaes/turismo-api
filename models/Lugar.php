@@ -8,13 +8,13 @@
 		private $nome;
 		private $descricao;
 		private $espaco;
+		private $endereco;
 		private $simbolo;
 		private $latitude;
 		private $longitude;
 		private $circuito_id;
 		private $funcionamento_inicio;
 		private $funcionamento_fim;
-		private $endereco;
 		
 		public function getId()
 		{
@@ -119,11 +119,22 @@
 		public function listar() {
 			$db = getDB();
 
+			$imagem = new Imagem();
+
 			$sql = "SELECT * FROM lugar";
 
 			$result = $db->query($sql);
 			$lugares = $result->fetch_all(MYSQLI_ASSOC);
 
+			for ($i=0; $i<count($lugares); $i++) {
+				$array = array(
+					'categoria' => 1,
+					'imagem_id' => $lugares[$i]["id"]
+				);
+
+				$lugares[$i]["imagens"] = $imagem->listar($array);
+			}
+				
 			if($lugares){
 			    return $lugares;
 	    	}
@@ -131,5 +142,49 @@
 	    		return null;
 	    	}
 		}
+
+	    public function preencher($array = null) {
+			if( $array ){
+				$this->nome = $array["nome"];
+		    	$this->descricao = $array["descricao"];
+		    	$this->espaco = $array["espaco"];
+		    	$this->endereco = $array["endereco"];
+		    	$this->simbolo_id = $array["simbolos_turisticos"];
+		    	$this->latitude = $array["latitude"];
+		    	$this->longitude = $array["longitude"];
+		    	$this->circuito_id = $array["circuito"];
+		    	$this->funcionamento_inicio = $array["funcionamento_inicio"];
+		    	$this->funcionamento_fim = $array["funcionamento_fim"];
+
+				return true;
+	    	} else {
+	    		return null;
+	    	}
+	    }
+
+	    public function salvar() {
+			$db = getDB();
+
+			$sql = "INSERT INTO lugar (nome, descricao, espaco, endereco, simbolo_id, latitude, longitude, circuito_id, funcionamento_inicio, funcionamento_fim)
+				VALUES ('".$this->nome."',
+						'".$this->descricao."',
+						'".$this->espaco."',
+						'".$this->endereco."',
+						'".$this->simbolo_id."',
+						'".$this->latitude."',
+						'".$this->longitude."',
+						'".$this->circuito_id."',
+						'".$this->funcionamento_inicio."',
+						'".$this->funcionamento_fim."')";
+
+			$result = $db->query($sql);
+			
+			if($result){
+				return $db->insert_id;;
+	    	}
+	    	else {
+	    		return null;
+	    	}
+	    }
 	}
 ?>

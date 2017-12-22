@@ -17,15 +17,41 @@
 		// Create Code
 	});
 
-	// Requisição Post Para Add Data no Banco
-	$app->post('/lugares/novo', function ($request, $response, $args) {
-		$content = $request->getParsedBody();
+	// Requisição Post Para Add Lugar no Banco
+	$app->post('/lugares/novo', function ($request, $response) {
+		$data = false;
 
-		$nome = $content['nome'];
+		$form = $request->getParsedBody();
 
-		$data = array(
-			'nome' => $nome
-		);
+		$lugar = new Lugar();
+		$lugar->preencher($form);
+		$result = $lugar->salvar();
+
+		if ($result != 0 && $result != null) {
+			$imagens = $request->getUploadedFiles();
+			$imagensURL = array();
+
+			foreach ($imagens['imagens'] as $imagem) {
+		        if ($imagem->getError() === UPLOAD_ERR_OK) {
+
+		        	$nome = $result . "-" . dechex( rand(999, 999999) );
+
+		        	$pasta = '/lugares/imagens/';
+		        	$url = moverArquivo($pasta, $imagem, $nome);
+
+		        	$imagensURL[] = array(
+		        		'categoria' => 1,
+		        		'imagem_id' => $result,
+		        		'url' => $url
+		        	);
+		        }
+		    }
+
+		    $imagem = new Imagem();
+		    $status = $imagem->salvarImagens($imagensURL);
+
+		    $data = true;
+		}
 
 		return $response->withJson($data);
 	});

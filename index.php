@@ -11,6 +11,7 @@
 
 	require 'vendor/autoload.php';
 	require 'models/Database.php';
+	require 'models/Imagem.php';
 	require 'models/Lugar.php';
 
 	$app = new \Slim\App(array(
@@ -22,6 +23,7 @@
 
 	use Psr\Http\Message\RequestInterface as Request;
 	use Psr\Http\Message\ResponseInterface as Response;
+	use Slim\Http\UploadedFile;
 
 	/*
 	** Função para ignorar a presença ou a falta de '/' no link
@@ -45,10 +47,7 @@
 	    return $next($request, $response);
 	});
 
-	function getDB() {
-		$Database = new Database();
-		return $Database->conexao();
-	}
+	include 'functions.php';
 
 	/*******************************************************************************\
 	|                                                                               |
