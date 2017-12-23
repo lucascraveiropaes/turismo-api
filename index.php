@@ -13,6 +13,7 @@
 	require 'models/Database.php';
 	require 'models/Imagem.php';
 	require 'models/Lugar.php';
+	require 'models/Circuito.php';
 
 	$app = new \Slim\App(array(
 		'settings' => [

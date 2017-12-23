@@ -132,7 +132,12 @@
 					'imagem_id' => $lugares[$i]["id"]
 				);
 
+				$lugares[$i]["imagem_existe"] = false;
 				$lugares[$i]["imagens"] = $imagem->listar($array);
+
+				if ($lugares[$i]["imagens"]) {
+					$lugares[$i]["imagem_existe"] = true;
+				}
 			}
 				
 			if($lugares){

@@ -5,6 +5,10 @@
 	}
 
 	function moverArquivo($pasta, $arquivo, $nome) {
+		if ( ! is_dir($pasta) ) {
+			mkdir($pasta);
+		}
+
 		$pasta = $_SERVER['HTTP_HOST'] . '/uploads' . $pasta;
 
 		$pasta = str_replace("\\", "/", $pasta);
