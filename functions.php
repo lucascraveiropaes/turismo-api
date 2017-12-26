@@ -5,20 +5,46 @@
 	}
 
 	function moverArquivo($pasta, $arquivo, $nome) {
-		if ( ! is_dir($pasta) ) {
-			mkdir($pasta);
-		}
+		$path = __DIR__ . '/uploads' . $pasta;
 
-		$pasta = $_SERVER['HTTP_HOST'] . '/uploads' . $pasta;
-
-		$pasta = str_replace("\\", "/", $pasta);
+		$path = str_replace("\\", "/", $path);
 
 		$extension = pathinfo($arquivo->getClientFilename(), PATHINFO_EXTENSION);
 	    $filename = sprintf('%s.%0.8s', $nome, $extension);
+		
+	    $arquivo->moveTo($path . $filename);
 
-	    $arquivo->moveTo($pasta . $filename);
+	    $url = 'http://'.$_SERVER['HTTP_HOST'].'/uploads'.$pasta.$filename;
 
-	    return ($pasta . $filename);
+	    //'http://'.$_SERVER['SERVER_NAME'].'/uploads'.$pasta.$filename
+
+	    return ($url);
+	}
+
+	function countFrom($array = null)
+	{
+		if ( $array && isset( $array['tabela'] ) ) {
+			$db = getDB();
+
+			$tabela = $array['tabela'];
+
+			$sql = "SELECT COUNT(*) FROM $tabela";
+
+			if ( isset($array['pesquisa']) && $array['pesquisa'] != null ) {
+				$pesquisa = $array['pesquisa'];
+				$sql .= " WHERE $pesquisa";
+			}
+
+			$result = $db->query($sql);
+			$lugares = $result->fetch_all(MYSQLI_ASSOC);
+				
+			if($lugares){
+			    return $lugares[0]["COUNT(*)"];
+	    	}
+	    	else {
+	    		return null;
+	    	}
+		}
 	}
 
 

@@ -1,12 +1,13 @@
 <?php
 	/**
-	* 
+	* Circuito: ID do circuito ao qual pertence
 	*/
 	class Lugar
 	{
 		private $id;
 		private $nome;
 		private $descricao;
+		private $informacoes;
 		private $espaco;
 		private $endereco;
 		private $simbolo;
@@ -43,13 +44,13 @@
 		    return $this->descricao = $descricao;
 		}
 
-		public function getEspaco()
+		public function getInformacao()
 		{
-		    return $this->espaco;
+		    return $this->informacoes;
 		}
-		public function setEspaco($espaco)
+		public function setInformacao($informacoes)
 		{
-		    return $this->espaco = $espaco;
+		    return $this->informacoes = $informacoes;
 		}
 
 		public function getSimbolo_id()
@@ -152,7 +153,7 @@
 			if( $array ){
 				$this->nome = $array["nome"];
 		    	$this->descricao = $array["descricao"];
-		    	$this->espaco = $array["espaco"];
+		    	$this->informacoes = $array["informacoes"];
 		    	$this->endereco = $array["endereco"];
 		    	$this->simbolo_id = $array["simbolos_turisticos"];
 		    	$this->latitude = $array["latitude"];
@@ -170,10 +171,10 @@
 	    public function salvar() {
 			$db = getDB();
 
-			$sql = "INSERT INTO lugar (nome, descricao, espaco, endereco, simbolo_id, latitude, longitude, circuito_id, funcionamento_inicio, funcionamento_fim)
+			$sql = "INSERT INTO lugar (nome, descricao, informacoes, endereco, simbolo_id, latitude, longitude, circuito_id, funcionamento_inicio, funcionamento_fim)
 				VALUES ('".$this->nome."',
 						'".$this->descricao."',
-						'".$this->espaco."',
+						'".$this->informacoes."',
 						'".$this->endereco."',
 						'".$this->simbolo_id."',
 						'".$this->latitude."',

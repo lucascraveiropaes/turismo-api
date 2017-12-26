@@ -5,8 +5,19 @@
 
 	// Lugares
 	$app->get('/circuitos', function ($request, $response, $args) {
-		$lugares = new Lugar();
-		$data = $lugares->listar();
+
+		$circuitos = new Circuito();
+		$data = $circuitos->listar();
+
+		for ($i=0; $i<count($data); $i++) {
+
+			$lugaresQNTD = countFrom(array(
+				'tabela' => 'lugar',
+				'pesquisa' => 'circuito_id = '. $data[$i]["id"] 
+			));
+
+			$data[$i]["lugares"] = $lugaresQNTD;
+		}
 
 		return $response->withJson( $data );
 	});
@@ -16,25 +27,24 @@
 		$data = false;
 
 		$imagens = $request->getUploadedFiles();
-
+		
 		$imagem = $imagens['imagem'];
 	    if ($imagem->getError() === UPLOAD_ERR_OK) {
 	        $nome = "c-" . dechex( rand(999, 999999) );
 
         	$pasta = '/circuitos/imagens/';
         	$url = moverArquivo($pasta, $imagem, $nome);
-
-        	echo($url);
 	    }
 
-	    $form = $request->getParsedBody();
+	    if ($url) {
+	    	$form = $request->getParsedBody();
+			$form["imagem"] = $url;
 
-		if ($url) {
 			$circuito = new Circuito();
 			$circuito->preencher($form);
-			$result = $lugar->salvar();
+			$result = $circuito->salvar();
 
-		    $data = true;
+			if ($result) : $data = true; endif; 		    
 		}
 
 		return $response->withJson($data);

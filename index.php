@@ -14,6 +14,7 @@
 	require 'models/Imagem.php';
 	require 'models/Lugar.php';
 	require 'models/Circuito.php';
+	require 'models/SimbolosTuristicos.php';
 
 	$app = new \Slim\App(array(
 		'settings' => [
