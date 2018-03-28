@@ -1,17 +1,9 @@
 <?php
-	header('Access-Control-Allow-Origin: *');
-	header('Content-Type: application/json');
-	header('Content-Type: text/html; charset=utf-8');
-
 	session_cache_limiter(false);
 	session_start();
-
-	setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
-	date_default_timezone_set('America/Sao_Paulo');
+	error_reporting(E_ALL);
 
 	require 'vendor/autoload.php';
-	require 'models/Database.php';
-	require 'models/Lugar.php';
 
 	$app = new \Slim\App(array(
 		'settings' => [
@@ -30,53 +22,39 @@
 	    $uri = $request->getUri();
 	    $path = $uri->getPath();
 	    if ($path != '/' && substr($path, -1) == '/') {
-	        // permanently redirect paths with a trailing slash
-	        // to their non-trailing counterpart
 	        $uri = $uri->withPath(substr($path, 0, -1));
-	        
-	        if($request->getMethod() == 'GET') {
+	        if($request->getMethod() == 'GET')
 	            return $response->withRedirect((string)$uri, 301);
-	        }
-	        else {
+	        else
 	            return $next($request->withUri($uri), $response);
-	        }
 	    }
-
 	    return $next($request, $response);
 	});
 
-	function getDB() {
-		$Database = new Database();
-		return $Database->conexao();
-	}
 
 	/*******************************************************************************\
 	|                                                                               |
 	|                                    Index                                      |
 	|                                                                               |
 	\*******************************************************************************/
-
-	// Index
 	$app->get('/', function ($request, $response, $args) {
-		
-		$data = array(
-			'mensagem' => "Requisição inválida"
-		);
-
-		return $response->withJson($data);
+		return $response->withJson(array(
+			'mensagem' => "Bem vindo à API do Aplicativo Turismo Quissamã"
+		));
 	});
 
-	include './routes/lugares.php';
+	/*
+	** Retorna o json específico da rota solicitada
+	**/
+	$app->get('/{ category }', function ($request, $response, $args) {
+		$route = $request->getAttribute("route");
+		$category = $route->getArgument("category");
+		$url = "./data/".$category.".json";
 
-	include './routes/circuitos.php';
+		$data = json_decode( file_get_contents($url) );
 
-	include './routes/comercios.php';
-
-	include './routes/atividades.php';
-
-	include './routes/eventos.php';
-
-	include './routes/simbolos.php';
+		return $response->withJson( $data );
+	});
 
 	$app->run();
 ?>
