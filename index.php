@@ -14,6 +14,7 @@
 
 	use Psr\Http\Message\RequestInterface as Request;
 	use Psr\Http\Message\ResponseInterface as Response;
+	use Slim\Http\UploadedFile;
 
 	/*
 	** Função para ignorar a presença ou a falta de '/' no link
@@ -30,7 +31,6 @@
 	    }
 	    return $next($request, $response);
 	});
-
 
 	/*******************************************************************************\
 	|                                                                               |
