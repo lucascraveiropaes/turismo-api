@@ -1,272 +1,345 @@
 [{
-	"id": "26",
-	"nome": "Praia do Visgueiro",
-	"descricao": "Localizada no Parque Nacional da Restinga de Jurubatiba, a Visgueiro é uma praia de restinga com areias brancas em seus dois quilômetros de extensão. Nela, a fauna diversificada é composta por lagartos, mariscos e caranguejos. Os moradores do local são, em sua maioria, pescadores que tiram seu sustento da pesca feita com rede e linha.",
-	"informacoes": "<b>Extenção:</b><br>2 Kilômetros",
-	"endereco": "Praia do Visgueiro, Quissamã",
-	"categoria_id": "5",
-	"latitude": "-22.2",
-	"longitude": "-41.44999999999999",
-	"circuito_id": "15",
-	"funcionamento_inicio": "00:01:00",
-	"funcionamento_fim": "23:59:00",
-	"imagem_existe": true,
-	"imagens": [{
-		"id": "16",
-		"categoria": "1",
-		"imagem_id": "26",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/26-af8b6.jpg"
-	}]
-}, {
-	"id": "28",
-	"nome": "Parque Nacional da Restinga de Jurubatiba",
-	"descricao": "Única área de preservação dedicada à vegetação de restinga, o Parque Nacional de Jurubatiba é um dos maiores tesouros ambientais do país. Criado por Decreto Federal em 24 de abril de 1998, Jurubatiba é uma Unidade de Conservação Federal que tem como objetivo preservar o patrimônio natural. O parque possui 44 km de praias, 14.860 hectares de restinga, com 18 lagoas costeiras de rara beleza e de grande interesse ecológico. Ele abrange os municípios de Carapebus, Macaé e Quissamã. Telefone: (22) 2765-6024 Email: parnajurubatiba@icmbio.gov.br",
-	"informacoes": "  <b>Criação:</b> <br>24 de abril de 1998  <b>Praias:</b> <br>44 Kilômetros  <b>Restinga:</b> <br>14.860 Hectares  <b>Lagoas:</b> <br>18  <b>Telefone:</b> <br>(22) 2765-6024  <b>Email:</b> <br>(22) parnajurubatiba@icmbio.gov.br",
-	"endereco": "jurubatiba, Quissamã",
-	"categoria_id": "17",
-	"latitude": "-22.2044949",
-	"longitude": "-41.500341100000014",
-	"circuito_id": "15",
-	"funcionamento_inicio": "00:01:00",
-	"funcionamento_fim": "23:59:00",
-	"imagem_existe": true,
-	"imagens": [{
-		"id": "17",
-		"categoria": "1",
-		"imagem_id": "28",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-aff80.jpg"
-	}, {
-		"id": "18",
-		"categoria": "1",
-		"imagem_id": "28",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-9d6d9.jpg"
-	}, {
-		"id": "19",
-		"categoria": "1",
-		"imagem_id": "28",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6314d.jpg"
-	}, {
-		"id": "20",
-		"categoria": "1",
-		"imagem_id": "28",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6b46b.jpg"
-	}, {
-		"id": "21",
-		"categoria": "1",
-		"imagem_id": "28",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-5e0d.jpg"
-	}, {
-		"id": "22",
-		"categoria": "1",
-		"imagem_id": "28",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-2f006.jpg"
-	}]
-}, {
-	"id": "32",
-	"nome": " Fazenda Trindade",
-	"descricao": "<p>Concluída em 1909, a sede da Fazenda Trindade tem o estilo dos chalés românticos do fim do século XIX . Além da sede, encontram-se preservadas algumas moradias de colonos e uma antiga casa de farinha. Trabalhado em pedra mármore colorida, com um desenho que forma um relógio de sol, o terraço fronteiro foi trazido da Casa de Capivari. Hoje, a fazenda, além de servir como residência, produz coco e abacaxi e possui criação de gado. Horário de Funcionamento: As visitas devem ser agendadas com antecedência nas agências de turismo de Quissamã. </p>",
-	"informacoes": "<p><strong>Telefone:</strong> (22) 2768-1306<br><br><strong>Endereço:</strong> RJ 196, km 13</p>",
-	"endereco": "RJ 196, km 13, Quissamã",
-	"categoria_id": "16",
-	"latitude": "-22.1071124",
-	"longitude": "-41.47350140000003",
-	"circuito_id": "16",
-	"funcionamento_inicio": "08:00:00",
-	"funcionamento_fim": "18:00:00",
-	"imagem_existe": true,
-	"imagens": [{
-		"id": "25",
-		"categoria": "1",
-		"imagem_id": "32",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/32-721a0.jpg"
-	}]
-}, {
-	"id": "33",
-	"nome": "Praia de Barra do Furado",
-	"descricao": "<p>Barra do Furado é uma pequena vila de pescadores que divide Campos dos Goytacazes e Quissamã e sedia anualmente uma das etapas do Campeonato Brasileiro de Surf Profissional, além de outras competições do esporte. A pesca é a principal atividade econômica local, e a Praia de Barra do Furado dispõe de quiosques e restaurantes especializados em frutos do mar e suas iguarias. São oferecidos passeios de bugres pelas areias escaldantes do Furado.</p>",
-	"informacoes": "<p>Barra do Furado, Quissamã - RJ</p>",
-	"endereco": "Barra do Furado, Quissamã",
-	"categoria_id": "5",
-	"latitude": "-22.0975027",
-	"longitude": "-41.14139290000003",
-	"circuito_id": "15",
-	"funcionamento_inicio": "00:00:00",
-	"funcionamento_fim": "00:00:00",
-	"imagem_existe": true,
-	"imagens": [{
-		"id": "26",
-		"categoria": "1",
-		"imagem_id": "33",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/33-d481d.jpg"
-	}]
-}, {
-	"id": "36",
-	"nome": "Betos Bar",
-	"descricao": "<p>kajsdencaljkg</p>",
-	"informacoes": "<p>dfgvsdgh</p>",
-	"endereco": "Betos Bar, Quissamã",
-	"categoria_id": "8",
-	"latitude": "-22.1075473",
-	"longitude": "-41.466427899999985",
-	"circuito_id": "0",
-	"funcionamento_inicio": "08:00:00",
-	"funcionamento_fim": "22:00:00",
-	"imagem_existe": true,
-	"imagens": [{
-		"id": "33",
-		"categoria": "1",
-		"imagem_id": "36",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-87044.jpg"
-	}, {
-		"id": "34",
-		"categoria": "1",
-		"imagem_id": "36",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-89235.jpg"
-	}, {
-		"id": "35",
-		"categoria": "1",
-		"imagem_id": "36",
-		"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-2c6f0.jpg"
-	}]
-}, {
-	"id": "40",
-	"nome": "Deguste",
-	"descricao": "<p>Lero lero</p>",
-	"informacoes": "<p>Lorem ipsum</p>",
-	"endereco": "Quissamã, Deguste",
-	"categoria_id": "8",
-	"latitude": "-22.1055818",
-	"longitude": "-41.47319329999999",
-	"circuito_id": "0",
-	"funcionamento_inicio": "17:00:00",
-	"funcionamento_fim": "03:00:00",
-	"imagem_existe": true,
-	"imagens": [{
-		"id": "64",
-		"categoria": "1",
-		"imagem_id": "40",
-		"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-626bf.jpg"
-	}, {
-		"id": "65",
-		"categoria": "1",
-		"imagem_id": "40",
-		"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-c03b0.jpg"
-	}, {
-		"id": "66",
-		"categoria": "1",
-		"imagem_id": "40",
-		"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-d3520.jpg"
-	}]
-}, {
-	"id": "41",
-	"nome": "Pousada do Mano",
-	"descricao": "<p>Hotel é trivago</p>",
-	"informacoes": "",
-	"endereco": "Rua Eusébio Queiroz, 337 Quissamã",
-	"categoria_id": "7",
-	"latitude": "-22.1053059",
-	"longitude": "-41.46940459999996",
-	"circuito_id": "0",
-	"funcionamento_inicio": "06:00:00",
-	"funcionamento_fim": "23:59:00",
-	"imagem_existe": false,
-	"imagens": []
-}, {
-	"id": "42",
-	"nome": "Posto Quissamã",
-	"descricao": "<p>Posto de gasolina da Petrobras</p>",
-	"informacoes": "",
-	"endereco": "Rua Comendador José Julião, 315 - Alto Alegre - Quissamã - RJ",
-	"categoria_id": "6",
-	"latitude": "-22.10725",
-	"longitude": "-41.4732133",
-	"circuito_id": "0",
-	"funcionamento_inicio": "05:30:00",
-	"funcionamento_fim": "22:00:00",
-	"imagem_existe": false,
-	"imagens": []
-}, {
-	"id": "43",
-	"nome": "Terminal Rodoviário",
-	"descricao": "<p>Terminal rodoviário de Quissamã. 1001 e Quissatur</p>",
-	"informacoes": "",
-	"endereco": "Jerônimo Alves Paula, 393 - Caxias - Quissamã - RJ",
-	"categoria_id": "53",
-	"latitude": "-22.1116906",
-	"longitude": "-41.469614699999966",
-	"circuito_id": "0",
-	"funcionamento_inicio": "04:00:00",
-	"funcionamento_fim": "23:00:00",
-	"imagem_existe": false,
-	"imagens": []
-}, {
-	"id": "44",
-	"nome": "Arena Snake",
-	"descricao": "<p>Sua casa de shows em Quissamã</p>",
-	"informacoes": "",
-	"endereco": "Euzébio de Queirós, 42 - Centro - Quissamã - RJ",
-	"categoria_id": "54",
-	"latitude": "-22.1050826",
-	"longitude": "-41.47258720000002",
-	"circuito_id": "0",
-	"funcionamento_inicio": "22:00:00",
-	"funcionamento_fim": "04:00:00",
-	"imagem_existe": false,
-	"imagens": []
-}, {
-	"id": "45",
-	"nome": "Banco do Brasil",
-	"descricao": "<p>Agência 3845-8</p>",
-	"informacoes": "",
-	"endereco": "Barão de Vila Franca, 292 - Centro - Quissamã - RJ",
-	"categoria_id": "52",
-	"latitude": "-22.1071092",
-	"longitude": "-41.470988799999986",
-	"circuito_id": "0",
-	"funcionamento_inicio": "06:00:00",
-	"funcionamento_fim": "22:00:00",
-	"imagem_existe": false,
-	"imagens": []
-}, {
-	"id": "46",
-	"nome": "Fazenda Machadinha",
-	"descricao": "<p>Tombada pelo Instituto Estadual do Patrimônio Cultural (Inepac) em 1979, a Fazenda Machadinha possui valor histórico no que restou de sua casa grande, erguida entre 1853 e 1867, senzalas, armazéns e a capela em homenagem a Nossa Senhora do Patrocínio, construídas em 1833.</p><p>A casa grande não pôde ser conservada, mas as senzalas foram restauradas e ganharam anexos que ainda respeitam a arquitetura original, onde descendentes de quilombolas ainda as fazem de lar.</p>",
-	"informacoes": "<p>No local, funciona o Complexo Cultural Fazenda Machadinha</p><p>Telefone: 2768-9300</p>",
-	"endereco": "fazenda machadinha",
-	"categoria_id": "16",
-	"latitude": "-22.032429",
-	"longitude": "-41.45248049999998",
-	"circuito_id": "2",
-	"funcionamento_inicio": "10:00:00",
-	"funcionamento_fim": "17:00:00",
-	"imagem_existe": false,
-	"imagens": []
-}, {
-	"id": "47",
-	"nome": "Fazenda Machadinha",
-	"descricao": "<p>Tombada pelo Instituto Estadual do Patrimônio Cultural (Inepac) em 1979, a Fazenda Machadinha possui valor histórico no que restou de sua casa grande, erguida entre 1853 e 1867, senzalas, armazéns e a capela em homenagem a Nossa Senhora do Patrocínio, construídas em 1833.</p><p>A casa grande não pôde ser conservada, mas as senzalas foram restauradas e ganharam anexos que ainda respeitam a arquitetura original, onde descendentes de quilombolas ainda as fazem de lar.</p>",
-	"informacoes": "<p>No local, funciona o Complexo Cultural Fazenda Machadinha</p><p>Telefone: 2768-9300</p>",
-	"endereco": "fazenda machadinha",
-	"categoria_id": "16",
-	"latitude": "-22.032429",
-	"longitude": "-41.45248049999998",
-	"circuito_id": "2",
-	"funcionamento_inicio": "10:00:00",
-	"funcionamento_fim": "17:00:00",
-	"imagem_existe": false,
-	"imagens": []
-}, {
-	"id": "48",
-	"nome": "Museu Casa Quissamã",
-	"descricao": "<p>Criado pela Prefeitura Municipal em 2006, o museu foi residência do primeiro Visconde de Araruama e em seguida, de seu filho, o Visconde de Quissamã.</p><p>O imóvel estava em ruínas, mas foi totalmente restaurado e ambientado com decoração e móveis dos séculos XVIII e XIX. O museu conta com duas salas com memoriais descritivo e ilustrado e catálogo impresso.</p><p><br></p><p>Ao lado do museu, é possível ver um dos poucos exemplares de Baobás no estado do Rio de Janeiro.</p><p>O baobá é um objeto de culto de religiões africanas, a 'árvore da palavra e da sabedoria' é nativa da ilha de Madagascar, mas está presente, mesmo que de forma discreta, no estado do Rio de Janeiro. Há apenas três delas em território fluminense: no Jardim Botânico da capital, na Ilha de Paquetá e em Quissamã.</p><p>A árvore adorna a",
-	"informacoes": "<p>Aberto a visitação de quarta a domingo</p><p>Telefone: 2768-1332</p><p>E-mail: fcultura.quissama@gmail.com</p>",
-	"endereco": "museu Quissamã",
-	"categoria_id": "15",
-	"latitude": "-22.1005209",
-	"longitude": "-41.47675090000001",
-	"circuito_id": "16",
-	"funcionamento_inicio": "10:00:00",
-	"funcionamento_fim": "17:00:00",
-	"imagem_existe": false,
-	"imagens": []
-}]
+        "id": "51",
+        "nome": "Praia do Visgueiro",
+        "descricao": "Localizada no Parque Nacional da Restinga de Jurubatiba, a Visgueiro é uma praia de restinga com areias brancas em seus dois quilômetros de extensão. Nela, a fauna diversificada é composta por lagartos, mariscos e caranguejos. Os moradores do local são, em sua maioria, pescadores que tiram seu sustento da pesca feita com rede e linha.",
+        "informacoes": "<b>Extenção:</b><br>2 Kilômetros",
+        "endereco": "Praia do Visgueiro, Quissamã",
+        "categoria_id": "4",
+        "latitude": "-22.2",
+        "longitude": "-41.44999999999999",
+        "circuito_id": "2",
+        "funcionamento_inicio": "00:01:00",
+        "funcionamento_fim": "23:59:00",
+        "imagem_existe": true,
+        "imagens": [{
+            "id": "16",
+            "categoria": "4",
+            "imagem_id": "26",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/26-af8b6.jpg"
+        }]
+    }, {
+        "id": "52",
+        "nome": "Parque Nacional da Restinga de Jurubatiba",
+        "descricao": "Única área de preservação dedicada à vegetação de restinga, o Parque Nacional de Jurubatiba é um dos maiores tesouros ambientais do país. Criado por Decreto Federal em 24 de abril de 1998, Jurubatiba é uma Unidade de Conservação Federal que tem como objetivo preservar o patrimônio natural. O parque possui 44 km de praias, 14.860 hectares de restinga, com 18 lagoas costeiras de rara beleza e de grande interesse ecológico. Ele abrange os municípios de Carapebus, Macaé e Quissamã. Telefone: (22) 2765-6024 Email: parnajurubatiba@icmbio.gov.br",
+        "informacoes": "  <b>Criação:</b> <br>24 de abril de 1998  <b>Praias:</b> <br>44 Kilômetros  <b>Restinga:</b> <br>14.860 Hectares  <b>Lagoas:</b> <br>18  <b>Telefone:</b> <br>(22) 2765-6024  <b>Email:</b> <br>(22) parnajurubatiba@icmbio.gov.br",
+        "endereco": "jurubatiba, Quissamã",
+        "categoria_id": "15",
+        "latitude": "-22.2044949",
+        "longitude": "-41.500341100000014",
+        "circuito_id": "2",
+        "funcionamento_inicio": "00:01:00",
+        "funcionamento_fim": "23:59:00",
+        "imagem_existe": true,
+        "imagens": [{
+            "id": "17",
+            "categoria": "2",
+            "imagem_id": "28",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-aff80.jpg"
+        }, {
+            "id": "18",
+            "categoria": "2",
+            "imagem_id": "28",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-9d6d9.jpg"
+        }, {
+            "id": "19",
+            "categoria": "2",
+            "imagem_id": "28",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6314d.jpg"
+        }, {
+            "id": "20",
+            "categoria": "2",
+            "imagem_id": "28",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6b46b.jpg"
+        }, {
+            "id": "21",
+            "categoria": "2",
+            "imagem_id": "28",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-5e0d.jpg"
+        }, {
+            "id": "22",
+            "categoria": "2",
+            "imagem_id": "28",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-2f006.jpg"
+        }]
+    }, {
+        "id": "53",
+        "nome": " Fazenda Trindade",
+        "descricao": "<p>Concluída em 1909, a sede da Fazenda Trindade tem o estilo dos chalés românticos do fim do século XIX . Além da sede, encontram-se preservadas algumas moradias de colonos e uma antiga casa de farinha. Trabalhado em pedra mármore colorida, com um desenho que forma um relógio de sol, o terraço fronteiro foi trazido da Casa de Capivari. Hoje, a fazenda, além de servir como residência, produz coco e abacaxi e possui criação de gado. Horário de Funcionamento: As visitas devem ser agendadas com antecedência nas agências de turismo de Quissamã. </p>",
+        "informacoes": "<p><strong>Telefone:</strong> (22) 2768-1306<br><br><strong>Endereço:</strong> RJ 196, km 13</p>",
+        "endereco": "RJ 196, km 13, Quissamã",
+        "categoria_id": "11",
+        "latitude": "-22.1071124",
+        "longitude": "-41.47350140000003",
+        "circuito_id": "3",
+        "funcionamento_inicio": "08:00:00",
+        "funcionamento_fim": "18:00:00",
+        "imagem_existe": true,
+        "imagens": [{
+            "id": "25",
+            "categoria": "3",
+            "imagem_id": "32",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/32-721a0.jpg"
+        }]
+    }, {
+        "id": "54",
+        "nome": "Praia de Barra do Furado",
+        "descricao": "<p>Barra do Furado é uma pequena vila de pescadores que divide Campos dos Goytacazes e Quissamã e sedia anualmente uma das etapas do Campeonato Brasileiro de Surf Profissional, além de outras competições do esporte. A pesca é a principal atividade econômica local, e a Praia de Barra do Furado dispõe de quiosques e restaurantes especializados em frutos do mar e suas iguarias. São oferecidos passeios de bugres pelas areias escaldantes do Furado.</p>",
+        "informacoes": "<p>Barra do Furado, Quissamã - RJ</p>",
+        "endereco": "Barra do Furado, Quissamã",
+        "categoria_id": "4",
+        "latitude": "-22.0975027",
+        "longitude": "-41.14139290000003",
+        "circuito_id": "2",
+        "funcionamento_inicio": "00:00:00",
+        "funcionamento_fim": "00:00:00",
+        "imagem_existe": true,
+        "imagens": [{
+            "id": "26",
+            "categoria": "1",
+            "imagem_id": "33",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/33-d481d.jpg"
+        }]
+    }, {
+        "id": "55",
+        "nome": "Betos Bar",
+        "descricao": "<p>Restaurante e Lachonete</p>",
+        "informacoes": "<p>Aberto de segunda a sábado de 8h às 22h</p>",
+        "endereco": "Betos Bar, Quissamã",
+        "categoria_id": "7",
+        "latitude": "-22.1075473",
+        "longitude": "-41.466427899999985",
+        "circuito_id": "0",
+        "funcionamento_inicio": "08:00:00",
+        "funcionamento_fim": "22:00:00",
+        "imagem_existe": true,
+        "imagens": [{
+            "id": "33",
+            "categoria": "0",
+            "imagem_id": "36",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-87044.jpg"
+        }, {
+            "id": "34",
+            "categoria": "0",
+            "imagem_id": "36",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-89235.jpg"
+        }, {
+            "id": "35",
+            "categoria": "0",
+            "imagem_id": "36",
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-2c6f0.jpg"
+        }]
+    }, {
+        "id": "56",
+        "nome": "Deguste",
+        "descricao": "<p>Pizzaria</p>",
+        "informacoes": "<p>Aberto de terça a domingo de 18h às 0h</p>",
+        "endereco": "Quissamã, Deguste",
+        "categoria_id": "7",
+        "latitude": "-22.1055818",
+        "longitude": "-41.47319329999999",
+        "circuito_id": "0",
+        "funcionamento_inicio": "17:00:00",
+        "funcionamento_fim": "03:00:00",
+        "imagem_existe": true,
+        "imagens": [{
+            "id": "64",
+            "categoria": "0",
+            "imagem_id": "40",
+            "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-626bf.jpg"
+        }, {
+            "id": "65",
+            "categoria": "0",
+            "imagem_id": "40",
+            "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-c03b0.jpg"
+        }, {
+            "id": "66",
+            "categoria": "0",
+            "imagem_id": "40",
+            "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-d3520.jpg"
+        }]
+    }, {
+        "id": "57",
+        "nome": "Pousada do Mano",
+        "descricao": "<p>Hotel é trivago</p>",
+        "informacoes": "",
+        "endereco": "Rua Eusébio Queiroz, 337 Quissamã",
+        "categoria_id": "6",
+        "latitude": "-22.1053059",
+        "longitude": "-41.46940459999996",
+        "circuito_id": "0",
+        "funcionamento_inicio": "06:00:00",
+        "funcionamento_fim": "23:59:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "58",
+        "nome": "Posto Quissamã",
+        "descricao": "<p>Posto de gasolina da Petrobras</p>",
+        "informacoes": "",
+        "endereco": "Rua Comendador José Julião, 315 - Alto Alegre - Quissamã - RJ",
+        "categoria_id": "5",
+        "latitude": "-22.10725",
+        "longitude": "-41.4732133",
+        "circuito_id": "0",
+        "funcionamento_inicio": "05:30:00",
+        "funcionamento_fim": "22:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "59",
+        "nome": "Terminal Rodoviário",
+        "descricao": "<p>Terminal rodoviário de Quissamã. 1001 e Quissatur</p>",
+        "informacoes": "",
+        "endereco": "Jerônimo Alves Paula, 393 - Caxias - Quissamã - RJ",
+        "categoria_id": "37",
+        "latitude": "-22.1116906",
+        "longitude": "-41.469614699999966",
+        "circuito_id": "0",
+        "funcionamento_inicio": "04:00:00",
+        "funcionamento_fim": "23:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "60",
+        "nome": "Arena Snake",
+        "descricao": "<p>Sua casa de shows em Quissamã</p>",
+        "informacoes": "",
+        "endereco": "Euzébio de Queirós, 42 - Centro - Quissamã - RJ",
+        "categoria_id": "50",
+        "latitude": "-22.1050826",
+        "longitude": "-41.47258720000002",
+        "circuito_id": "0",
+        "funcionamento_inicio": "22:00:00",
+        "funcionamento_fim": "04:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "61",
+        "nome": "Banco do Brasil",
+        "descricao": "<p>Agência 3845-8</p>",
+        "informacoes": "",
+        "endereco": "Barão de Vila Franca, 292 - Centro - Quissamã - RJ",
+        "categoria_id": "48",
+        "latitude": "-22.1071092",
+        "longitude": "-41.470988799999986",
+        "circuito_id": "0",
+        "funcionamento_inicio": "06:00:00",
+        "funcionamento_fim": "22:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "62",
+        "nome": "Fazenda Machadinha",
+        "descricao": "<p>Tombada pelo Instituto Estadual do Patrimônio Cultural (Inepac) em 1979, a Fazenda Machadinha possui valor histórico no que restou de sua casa grande, erguida entre 1853 e 1867, senzalas, armazéns e a capela em homenagem a Nossa Senhora do Patrocínio, construídas em 1833.</p><p>A casa grande não pôde ser conservada, mas as senzalas foram restauradas e ganharam anexos que ainda respeitam a arquitetura original, onde descendentes de quilombolas ainda as fazem de lar.</p>",
+        "informacoes": "<p>No local, funciona o Complexo Cultural Fazenda Machadinha</p><p>Telefone: 2768-9300</p>",
+        "endereco": "fazenda machadinha",
+        "categoria_id": "11",
+        "latitude": "-22.032429",
+        "longitude": "-41.45248049999998",
+        "circuito_id": "1",
+        "funcionamento_inicio": "10:00:00",
+        "funcionamento_fim": "17:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "63",
+        "nome": "Museu Casa Quissamã",
+        "descricao": "<p>Criado pela Prefeitura Municipal em 2006, o museu foi residência do primeiro Visconde de Araruama e em seguida, de seu filho, o Visconde de Quissamã.</p><p>O imóvel estava em ruínas, mas foi totalmente restaurado e ambientado com decoração e móveis dos séculos XVIII e XIX. O museu conta com duas salas com memoriais descritivo e ilustrado e catálogo impresso.</p><p><br></p><p>Ao lado do museu, é possível ver um dos poucos exemplares de Baobás no estado do Rio de Janeiro.</p><p>O baobá é um objeto de culto de religiões africanas, a 'árvore da palavra e da sabedoria' é nativa da ilha de Madagascar, mas está presente, mesmo que de forma discreta, no estado do Rio de Janeiro. Há apenas três delas em território fluminense: no Jardim Botânico da capital, na Ilha de Paquetá e em Quissamã.</p><p>A árvore adorna a",
+        "informacoes": "<p>Aberto a visitação de quarta a domingo</p><p>Telefone: 2768-1332</p><p>E-mail: fcultura.quissama@gmail.com</p>",
+        "endereco": "museu Quissamã",
+        "categoria_id": "13",
+        "latitude": "-22.1005209",
+        "longitude": "-41.47675090000001",
+        "circuito_id": "3",
+        "funcionamento_inicio": "10:00:00",
+        "funcionamento_fim": "17:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "64",
+        "nome": "Fazenda São Miguel",
+        "descricao": "<p>Fundada em 1858, foi a primeira moradia do Barão e Visconde de Quissamã. Vendida no fim do século XIX, a fazenda acabou nas mãos do engenheiro francês M. Bodaine, que construiu em 1908 o solar que hoje é visitado. A casa é odeada de palmeiras e eucaliptos e ariga móveis e objetos do início do século.</p>",
+        "informacoes": "<p>As visitas devem ser agendadas com até 24h de antecedência em agências de turismo da cidade</p><p>Telefone: 2768-1250</p>",
+        "endereco": "Rodovia QSM 007, Km 1,7",
+        "categoria_id": "11",
+        "latitude": "-22.0993778",
+        "longitude": "-41.5079971",
+        "circuito_id": "3",
+        "funcionamento_inicio": "10:00:00",
+        "funcionamento_fim": "17:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "65",
+        "nome": "Estação Ferroviária de Conde de Araruama",
+        "descricao": "<p>Inaugurada em 1875, teve grande importância para o município por ter sido o centro comercial da cidade entre os séculos XIX e XX. Foi construida para que o transporte de cargas e passageiros entre as propriedades açucareiras fosse mais rápido.</p></br><p>Suas ramificações possibilitavam o acesso às fazendas de Mandiquera, Machadinha, São Miguel, Santa Francisca e outras.</p></br><p>Foi o primeiro local da cidade a ter telefone.</p>",
+        "informacoes": "<p>Telefone: 2768-9300</p>",
+        "endereco": "Rodovia QSM 007, Km 1,7",
+        "categoria_id": "11",
+        "latitude": "-22.0712509",
+        "longitude": "-41.6053964",
+        "circuito_id": "3",
+        "funcionamento_inicio": "10:00:00",
+        "funcionamento_fim": "17:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "66",
+        "nome": "Fazenda Mandiquera",
+        "descricao": "<p>O projeto original é do arquiteto e empreiteiro alemão Antônio Becker. A sede da fazenda é um importante solar em estilo neoclássico</p></br><p>Inaugurado em 1875, a construção é considerada uma obra monumental para os padrões da oligarquia canavieira da época.</p></br><p>Além de ter recebido a visita do Imperador Dom Pedro II, a sede da fazenda também foi locação para os filmes O Coronel e o Lobisomem (2005) e Deu no New York Times (1987).</p><p>A Fazenda Mandiquera foi tombada pelo Instituto Estadual do Patrimônio Cultural (Inepac) em 2007.</p>",
+        "informacoes": "<p>Telefone: 2768-9300</p>",
+        "endereco": "Rodovia QSM 006, Km 1",
+        "categoria_id": "11",
+        "latitude": "-22.1191788",
+        "longitude": "-41.516186",
+        "circuito_id": "3",
+        "funcionamento_inicio": "10:00:00",
+        "funcionamento_fim": "17:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "67",
+        "nome": "Engenho Central de Quissamã",
+        "descricao": "<p>Inaugurado em 1877, este foi o primeiro engenho da América do Sul e possuia máquinas a vapor da época de sua inauguração funcionando até o fim dos anos 80.</p></br><p>As locomotivas usadas para transportar os Barões e Viscondes até a vila e a cana de açucar das fazendas para a Usina ainda se encontram no pátio da indústria desativada.</p>",
+        "informacoes": "<p>A entrada é proibida, pois a usina está em ruínas.</p>",
+        "endereco": "RJ - 196",
+        "categoria_id": "11",
+        "latitude": "-22.1164066",
+        "longitude": "-41.4945512",
+        "circuito_id": "3",
+        "funcionamento_inicio": "10:00:00",
+        "funcionamento_fim": "17:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "68",
+        "nome": "Fazenda São Manoel",
+        "descricao": "<p>A fazenda encontr-se em ótimo estado de conservação. Construída no fim do século XIX, a casa mostra aspectos do fim da era neoclassica e do início da era eclética. Podemos observar isso nos arcos góticos da fachada a transição.</p></br><p>Na fazenda ainda estão móveis e objetos da época, além de várias construções também antigas ao seu redor.</p>",
+        "informacoes": "<p>As visitas devem ser agendadas com antecedência em agências de turismo de Quissamã</p>",
+        "endereco": "RJ - 196",
+        "categoria_id": "11",
+        "latitude": "-22.0924758",
+        "longitude": "-41.5756654",
+        "circuito_id": "3",
+        "funcionamento_inicio": "10:00:00",
+        "funcionamento_fim": "17:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }, {
+        "id": "69",
+        "nome": "Centro Cultural Sobradinho",
+        "descricao": "<p>O Sobradinho é um casarão da década de 1870 que ganhou um segundo pavimento em 1885.</p><p>Em 2005, a antiga casa de Francisca Romana do Patrocínio, dama de companhia da baronesa de Villa Franca, e de seu sobrinho José David Paula foi comprada pela prefeitura de Quissamã, que começou o processo de restauração no ano seguinte.</p></br> <p> No final do século XIX, a família Paula permitiu a construção da Estação da Freguesia, que viraria o centro de um total de 40 Km de linha férrea, ao entorno da propriedade.</p></br><p>Ainda com as características originais preservadas, o prédio ganhou um elevador e um anexo na parte de trás do terreno.</p></br><p>Com o objetivo de agregar iniciativas educacionais e culturais, o Sobradinho possui telão de exposições, sala de música, multimídia, leitura e dança, biblioteca infantil, um mini palco para atividades teatrais e cantina.</p></br><p> No local também funcionam a Biblioteca Municipal de Quissamã, o Cine Quissamã, o Café da Romana e uma réplica da antiga Estação Ferroviária.</p>",
+        "informacoes": "<p>Diversas oficinas podem ser encontradas no Sobradinho, tais como desenho, dança, música, xadrez e teatro</p></br><p>Telefone: 2768-1306</p>",
+        "endereco": "Rua Comendador José Julião, 206",
+        "categoria_id": "14",
+        "latitude": "-22.1063386",
+        "longitude": "-41.4733084",
+        "circuito_id": "3",
+        "funcionamento_inicio": "8:00:00",
+        "funcionamento_fim": "18:00:00",
+        "imagem_existe": false,
+        "imagens": []
+    }
+
+
+]

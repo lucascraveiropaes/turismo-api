@@ -1,189 +1,189 @@
 [{
-    "id": "5",
+    "id": "4",
     "nome": "Praia",
     "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-48100.jpg"
 }, {
-    "id": "6",
+    "id": "5",
     "nome": "Postos de Gasolina",
     "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-9cfd2.jpg"
 }, {
-    "id": "7",
+    "id": "6",
     "nome": "Hotel e Pousada",
     "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-3ea5a.jpg"
 }, {
-    "id": "8",
+    "id": "7",
     "nome": "Restaurantes",
     "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-357df.jpg"
 }, {
-    "id": "10",
+    "id": "8",
     "nome": "Igreja",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-743bd.jpg"
 }, {
-    "id": "11",
+    "id": "9",
     "nome": "Lagoa",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-b467f.jpg"
 }, {
-    "id": "12",
+    "id": "10",
     "nome": "Turismo Rural",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-f2010.jpg"
 }, {
-    "id": "13",
+    "id": "11",
     "nome": "Arquitetura Histórica",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-51f57.jpg"
 }, {
-    "id": "14",
+    "id": "12",
     "nome": "Monumento",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-11bf7.jpg"
 }, {
-    "id": "15",
+    "id": "13",
     "nome": "Museu",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-cc01c.jpg"
 }, {
-    "id": "16",
+    "id": "14",
     "nome": "Patrimônio Cultural",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-84166.jpg"
 }, {
-    "id": "17",
-    "nome": "Sítio Arquiológico",
+    "id": "15",
+    "nome": "Sítio Arqueológico",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1c9b8.jpg"
 }, {
-    "id": "18",
+    "id": "16",
     "nome": "Farol",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-7a2c9.jpg"
 }, {
-    "id": "19",
+    "id": "17",
     "nome": "Centro de Cultura",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-cb704.jpg"
 }, {
-    "id": "20",
+    "id": "18",
     "nome": "Biblioteca",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-61ac3.jpg"
 }, {
-    "id": "21",
+    "id": "19",
     "nome": "Esportes",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-d2e22.jpg"
 }, {
-    "id": "22",
+    "id": "20",
     "nome": "Esportes Equestres",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-932fa.jpg"
 }, {
-    "id": "23",
+    "id": "21",
     "nome": "Esportes Náuticos",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-9e31d.jpg"
 }, {
-    "id": "24",
+    "id": "22",
     "nome": "Esportes Automobilísticos",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1defa.jpg"
 }, {
-    "id": "25",
+    "id": "23",
     "nome": "Vôo Livre",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-c59f6.jpg"
 }, {
-    "id": "26",
+    "id": "24",
     "nome": "Surfe",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-a128.jpg"
 }, {
-    "id": "27",
+    "id": "25",
     "nome": "Futebol",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-44456.jpg"
 }, {
-    "id": "28",
+    "id": "26",
     "nome": "Ciclismo",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-23268.jpg"
 }, {
-    "id": "29",
+    "id": "27",
     "nome": "Praça",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-58dc1.jpg"
 }, {
-    "id": "30",
+    "id": "2",
     "nome": "Parque Urbano",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-8a477.jpg"
 }, {
-    "id": "31",
+    "id": "29",
     "nome": "Festas Populares",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-ebae8.jpg"
 }, {
-    "id": "32",
+    "id": "30",
     "nome": "Teatro",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-d8d79.jpg"
 }, {
-    "id": "33",
+    "id": "31",
     "nome": "Convenções",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-3cc52.jpg"
 }, {
-    "id": "34",
+    "id": "32",
     "nome": "Artesanato",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-68b9d.jpg"
 }, {
-    "id": "35",
+    "id": "33",
     "nome": "Feira Típica",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-ac131.jpg"
 }, {
-    "id": "36",
+    "id": "34",
     "nome": "Exposição Agropecuária",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-80177.jpg"
 }, {
-    "id": "37",
+    "id": "35",
     "nome": "Rodeio",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1bc84.jpg"
 }, {
-    "id": "38",
+    "id": "36",
     "nome": "Pavilhão de Feiras e Exposições",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-f3e59.jpg"
 }, {
-    "id": "39",
+    "id": "37",
     "nome": "Terminal Rodoviário",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-71af5.jpg"
 }, {
-    "id": "40",
+    "id": "38",
     "nome": "Porto",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-73020.jpg"
 }, {
-    "id": "41",
+    "id": "39",
     "nome": "Ponto de Parada",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-9c968.jpg"
 }, {
-    "id": "42",
+    "id": "40",
     "nome": "Estacionamento",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-54855.jpg"
 }, {
-    "id": "43",
+    "id": "41",
     "nome": "Informações Turísticas",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-e6b9e.jpg"
 }, {
-    "id": "44",
+    "id": "42",
     "nome": "Correio",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-2641f.jpg"
 }, {
-    "id": "45",
+    "id": "43",
     "nome": "Serviço Telefônico",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-44c90.jpg"
 }, {
-    "id": "47",
+    "id": "44",
     "nome": "Borracharia",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-504a3.jpg"
 }, {
-    "id": "49",
+    "id": "45",
     "nome": "Pronto Socorro",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-90c5f.jpg"
 }, {
-    "id": "50",
+    "id": "46",
     "nome": "Serviço Sanitário",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-e7aa.jpg"
 }, {
-    "id": "51",
+    "id": "47",
     "nome": "Montanha",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-3951c.jpg"
 }, {
-    "id": "52",
+    "id": "48",
     "nome": "Banco",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-70fd9.jpg"
 }, {
-    "id": "53",
+    "id": "49",
     "nome": "Serviços",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-34b9d.png"
 }, {
-    "id": "54",
+    "id": "50",
     "nome": "Diversão",
     "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-a0d02.jpg"
 }]

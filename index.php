@@ -51,9 +51,27 @@
 		$category = $route->getArgument("category");
 		$url = "./data/".$category.".json";
 
-		$data = json_decode( file_get_contents($url) );
+		$data = json_decode( file_get_contents($url, true) );
 
 		return $response->withJson( $data );
+	});
+
+	$app->get('/{ category }/{ id }', function ($request, $response, $args) {
+		$route 		= $request->getAttribute("route");
+		$category 	= $route->getArgument("category");
+		$id 		= $route->getArgument("id");
+		$url 		= "./data/".$category.".json";
+		$r 			= null;
+
+		$data = json_decode( file_get_contents($url, true) );
+
+		for ($i=0; $i < count($data); $i++) {
+			if($data[$i]->id == $id) {
+				$r = $data[$i];
+			}
+		}
+
+		return $response->withJson( $r );
 	});
 
 	$app->run();
