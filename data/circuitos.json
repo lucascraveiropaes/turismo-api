@@ -1,13 +1,19 @@
 [{
 	"id": "1",
 	"nome": "Circuito Étnico",
-	"imagem": "https://turismo-quissama.000webhostapp.com/uploads/circuitos/imagens/c-e5173.jpg"
+	"imagens": [{
+	"url": "https://turismo-quissama.000webhostapp.com/uploads/circuitos/imagens/c-e5173.jpg"
+	}]
 }, {
 	"id": "2",
 	"nome": "Circuito Ecológico",
-	"imagem": "https://turismo-quissama.000webhostapp.com/uploads/circuitos/imagens/c-d9b1f.jpg"
+	"imagens": [{
+		"url": "https://turismo-quissama.000webhostapp.com/uploads/circuitos/imagens/c-d9b1f.jpg"
+	}]
 }, {
 	"id": "3",
 	"nome": "Circuito Histórico",
-	"imagem": "https://turismo-quissama.000webhostapp.com/uploads/circuitos/imagens/c-51639.jpg"
+	"imagens": [{
+		"url": "https://turismo-quissama.000webhostapp.com/uploads/circuitos/imagens/c-51639.jpg"
+	}]
 }]

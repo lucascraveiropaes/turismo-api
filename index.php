@@ -4,6 +4,7 @@
 	error_reporting(E_ALL);
 
 	require 'vendor/autoload.php';
+	require 'functions.php';
 
 	$app = new \Slim\App(array(
 		'settings' => [
@@ -50,28 +51,29 @@
 		$route = $request->getAttribute("route");
 		$category = $route->getArgument("category");
 		$url = "./data/".$category.".json";
-
 		$data = json_decode( file_get_contents($url, true) );
+		$result = array();
 
-		return $response->withJson( $data );
+		for ($i=0; $i < count($data); $i++) {
+			$obj = new stdClass;
+			$obj->id = $data[$i]->id;
+			$obj->nome = $data[$i]->nome;
+			$obj->imagens = $data[$i]->imagens;
+			
+			array_push($result, $obj);
+		}
+
+		return $response->withJson( $result );
 	});
 
 	$app->get('/{ category }/{ id }', function ($request, $response, $args) {
 		$route 		= $request->getAttribute("route");
 		$category 	= $route->getArgument("category");
 		$id 		= $route->getArgument("id");
-		$url 		= "./data/".$category.".json";
-		$r 			= null;
 
-		$data = json_decode( file_get_contents($url, true) );
+		$result = getDataByCategory($category, $id);
 
-		for ($i=0; $i < count($data); $i++) {
-			if($data[$i]->id == $id) {
-				$r = $data[$i];
-			}
-		}
-
-		return $response->withJson( $r );
+		return $response->withJson( $result );
 	});
 
 	$app->run();
