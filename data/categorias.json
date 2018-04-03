@@ -1,4 +1,8 @@
 [{
+    "id": "2",
+    "nome": "Parque Urbano",
+    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-8a477.jpg"}]
+}, {
     "id": "4",
     "nome": "Praia",
     "imagens": [{ "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-48100.jpg"}]
@@ -94,10 +98,6 @@
     "id": "27",
     "nome": "Praça",
     "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-58dc1.jpg"}]
-}, {
-    "id": "2",
-    "nome": "Parque Urbano",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-8a477.jpg"}]
 }, {
     "id": "29",
     "nome": "Festas Populares",

@@ -60,6 +60,7 @@
 			$obj->nome = $data[$i]->nome;
 			if ($category == "lugares") {
 				$obj->circuito_id = $data[$i]->circuito_id;
+				$obj->categoria_id = $data[$i]->categoria_id;
 			}
 			$obj->imagens = $data[$i]->imagens;
 			

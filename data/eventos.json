@@ -1,14 +1,27 @@
 [{
-    "id": "71",
-    "nome": "teste",
-    "descricao": "",
-    "data_inicio": "0000-00-00",
-    "data_fim": "0000-00-00",
-    "hora_inicio": "00:00:00",
-    "hora_fim": "00:00:00",
-    "endereco": "Prefeitura de Quissamã",
-    "latitude": "-22.1069754",
-    "longitude": "-41.47128029999999",
-    "imagem_existe": false,
-    "imagens": []
+    "id": 1,
+    "nome": "5° Semana de Cultura e Integração do Campus Quissamã",
+    "descricao": "<p>O evento acontecerá, entre 10 e 13 de abril de 2018, a V Semana de Cultura e Integração do IFF Campus Quissamã. A programação contará com apresentações artísticas, oficinas, palestras, exposições de trabalhos acadêmicos, jogos e atividades do NUGEV e do NEABI. As inscrições para as oficinas serão feitas no dia.</p><br><p>Esse evento tem como objetivo “recepcionar os estudantes ingressantes com um conjunto de atividades acadêmicas e culturais que promovam o debate de temas relevantes para uma formação omnilateral. Além disso, trata-se de oportunizar uma maior interação entre estudantes, servidores e comunidade externa”.</p>",
+    "informacoes": "<p>Serão realizadas atividades culturais, palestras, peças de teatro, música, mesa-redonda, campeonatos de dança (Just Dance), jogos eletrônicos, tais como League of Legends e Counter Strike, competições como o Gamba Camp, onde alunos ficarão "acampados" na escola até o final de uma competição de desenvolvimento de jogos, além de atividades externas como passeio ciclístico, plantio de mudas, visita técnica, e muito mais.</p>", 
+    "data_inicio": "10-04-2018",
+    "data_fim": "13-04-2018",
+    "hora_inicio": "09:00:00",
+    "hora_fim": "22:00:00",
+    "endereco": "AV. Amilcar Pereira da Silva, 727, Piteiras",
+    "latitude": "-22.109799",
+    "longitude": "-41.478226",
+    "imagens": [
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/1.jpg"
+        },
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/2.jpg"
+        },
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/3.jpg"
+        },
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/4.jpg"
+        }
+    ]
 }]
