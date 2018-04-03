@@ -58,6 +58,9 @@
 			$obj = new stdClass;
 			$obj->id = $data[$i]->id;
 			$obj->nome = $data[$i]->nome;
+			if ($category == "lugares") {
+				$obj->circuito_id = $data[$i]->circuito_id;
+			}
 			$obj->imagens = $data[$i]->imagens;
 			
 			array_push($result, $obj);
