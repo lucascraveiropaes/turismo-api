@@ -12,9 +12,6 @@
     "funcionamento_fim": "23:59:00",
     "imagem_existe": true,
     "imagens": [{
-      "id": "16",
-      "categoria": "4",
-      "imagem_id": "26",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/26-af8b6.jpg"
     }]
   }, {
@@ -31,34 +28,16 @@
     "funcionamento_fim": "23:59:00",
     "imagem_existe": true,
     "imagens": [{
-      "id": "17",
-      "categoria": "2",
-      "imagem_id": "28",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-aff80.jpg"
     }, {
-      "id": "18",
-      "categoria": "2",
-      "imagem_id": "28",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-9d6d9.jpg"
     }, {
-      "id": "19",
-      "categoria": "2",
-      "imagem_id": "28",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6314d.jpg"
     }, {
-      "id": "20",
-      "categoria": "2",
-      "imagem_id": "28",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6b46b.jpg"
     }, {
-      "id": "21",
-      "categoria": "2",
-      "imagem_id": "28",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-5e0d.jpg"
     }, {
-      "id": "22",
-      "categoria": "2",
-      "imagem_id": "28",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-2f006.jpg"
     }]
   }, {
@@ -75,9 +54,6 @@
     "funcionamento_fim": "18:00:00",
     "imagem_existe": true,
     "imagens": [{
-      "id": "25",
-      "categoria": "3",
-      "imagem_id": "32",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/32-721a0.jpg"
     }]
   }, {
@@ -94,9 +70,6 @@
     "funcionamento_fim": "00:00:00",
     "imagem_existe": true,
     "imagens": [{
-      "id": "26",
-      "categoria": "1",
-      "imagem_id": "33",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/33-d481d.jpg"
     }]
   }, {
@@ -113,19 +86,10 @@
     "funcionamento_fim": "22:00:00",
     "imagem_existe": true,
     "imagens": [{
-      "id": "33",
-      "categoria": "0",
-      "imagem_id": "36",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-87044.jpg"
     }, {
-      "id": "34",
-      "categoria": "0",
-      "imagem_id": "36",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-89235.jpg"
     }, {
-      "id": "35",
-      "categoria": "0",
-      "imagem_id": "36",
       "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-2c6f0.jpg"
     }]
   }, {
@@ -142,19 +106,10 @@
     "funcionamento_fim": "03:00:00",
     "imagem_existe": true,
     "imagens": [{
-      "id": "64",
-      "categoria": "0",
-      "imagem_id": "40",
       "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-626bf.jpg"
     }, {
-      "id": "65",
-      "categoria": "0",
-      "imagem_id": "40",
       "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-c03b0.jpg"
     }, {
-      "id": "66",
-      "categoria": "0",
-      "imagem_id": "40",
       "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-d3520.jpg"
     }]
   }, {
