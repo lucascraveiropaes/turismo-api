@@ -10,17 +10,8 @@
     "endereco": "AV. Amilcar Pereira da Silva, 727, Piteiras",
     "latitude": "-22.109799",
     "longitude": "-41.478226",
-    "imagens": [{
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/1.jpg"
-        },
-        {
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/2.jpg"
-        },
-        {
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/3.jpg"
-        },
-        {
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/4.jpg"
-        }
-    ]
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/1.jpg"},
+        {"url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/2.jpg"},
+        {"url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/3.jpg"},
+        {"url": "https://turismo-quissama.000webhostapp.com/uploads/eventos/semana-da-integracao/4.jpg"}]
 }]

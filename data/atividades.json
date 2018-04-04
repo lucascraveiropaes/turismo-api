@@ -10,11 +10,11 @@
     "imagem_existe": true,
     "imagens": [
         {
-            "url": "http://turismo-quissama.000webhostapp.com/uploads/atividades/imagens/3-1346a.jpg"
+            "url": "http://localhost:9000/uploads/atividades/imagens/3-1346a.jpg"
         }, {
-            "url": "http://turismo-quissama.000webhostapp.com/uploads/atividades/imagens/3-d7a5.jpg"
+            "url": "http://localhost:9000/uploads/atividades/imagens/3-d7a5.jpg"
         }, {
-            "url": "http://turismo-quissama.000webhostapp.com/uploads/atividades/imagens/3-b9921.jpg"
+            "url": "http://localhost:9000/uploads/atividades/imagens/3-b9921.jpg"
         }, {
             "url": "http://turismo-quissama.000webhostapp.com/uploads/eventos/imagens/3-8a061.jpg"
         }

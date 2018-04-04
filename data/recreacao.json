@@ -1,0 +1,12 @@
+[{
+    "id": 1,
+    "nome": "Caminhada",
+    "descricao": "<p>O local mais recomendado para a pratica de caminhada é a ciclovia do município.</p>",
+    "informacoes": "<p>Os horários mais recomendados são das 5:30 às 9h e após as 17:30</p>",
+    "hora_inicio": "05:30:00",
+    "hora_fim": "22:00:00",
+    "endereco": "AV. Amilcar Pereira da Silva",
+    "latitude": "-22.10804586",
+    "longitude": "-41.4758865",
+    "imagens": []
+}]
