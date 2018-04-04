@@ -44,6 +44,58 @@
 		));
 	});
 
+	//substr_compare
+
+	function utf8ize($d) {
+		if (is_array($d)) {
+			foreach ($d as $k => $v) {
+				$d[$k] = utf8ize($v);
+			}
+		} else if (is_string($d)) {
+			return utf8_encode($d);
+		}
+		return $d;
+	}
+
+	function cmp($a, $b) {
+		if ($a->position == $b->position) {
+			return 1;
+		}
+		return ($a->position < $b->position) ? 1 : -1;
+	}
+
+	function formatContent($data, $result, $query, $category) {
+		for ($i=0; $i < count($data); $i++) {
+			$obj = new stdClass;
+			$obj->id = $data[$i]->id;
+			$obj->nome = $data[$i]->nome;
+			$obj->excerpt = utf8ize(substr($data[$i]->descricao, 0, 60) . "...");
+			$obj->category = $category;
+			$obj->position = similar_text($data[$i]->nome, $query);
+			array_push($result, $obj);
+		}
+
+		return $result;
+	}
+
+	$app->get('/search/{ query }', function ($request, $response, $args) {
+		$route 	  	= $request->getAttribute("route");
+		$query 	  	= $route->getArgument("query");
+		$result	 	= array();
+		$lugares  	= json_decode( file_get_contents("./data/lugares.json", true) );
+		$eventos  	= json_decode( file_get_contents("./data/eventos.json", true) );
+		$atividades = json_decode( file_get_contents("./data/atividades.json", true) );
+
+		$result = formatContent($lugares, $result, $query, "Lugar");
+		$result = formatContent($eventos, $result, $query, "Evento");
+		$result = formatContent($atividades, $result, $query, "Atividade");
+
+		usort($result, "cmp");
+		$result = array_slice($result, 0, 10);
+
+		return $response->withJson( $result );
+	});
+
 	/*
 	** Retorna o json específico da rota solicitada
 	**/
@@ -63,7 +115,7 @@
 				$obj->categoria_id = $data[$i]->categoria_id;
 			}
 			$obj->imagens = $data[$i]->imagens;
-			
+
 			array_push($result, $obj);
 		}
 
