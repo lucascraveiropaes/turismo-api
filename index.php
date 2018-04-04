@@ -66,12 +66,18 @@
 
 	function formatContent($data, $result, $query, $category) {
 		for ($i=0; $i < count($data); $i++) {
+			$imagem = "";
+			if (count($data[$i]->imagens) > 0) {
+				$imagem = $data[$i]->imagens[0]->url;
+			}
+
 			$obj = new stdClass;
 			$obj->id = $data[$i]->id;
 			$obj->nome = $data[$i]->nome;
+			$obj->imagem = $imagem;
 			$obj->excerpt = utf8ize(substr($data[$i]->descricao, 0, 60) . "...");
 			$obj->category = $category;
-			$obj->position = similar_text($data[$i]->nome, $query);
+			$obj->position = similar_text(strtolower($data[$i]->nome), strtolower($query));
 			array_push($result, $obj);
 		}
 
