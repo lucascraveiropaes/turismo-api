@@ -8,25 +8,15 @@
     "hora_inicio": "17:00:00",
     "hora_fim": "21:00:00",
     "imagem_existe": true,
-    "imagens": [{
-        "id": "43",
-        "categoria": "2",
-        "imagem_id": "3",
-        "url": "http://localhost:9000/uploads/atividades/imagens/3-1346a.jpg"
-    }, {
-        "id": "44",
-        "categoria": "2",
-        "imagem_id": "3",
-        "url": "http://localhost:9000/uploads/atividades/imagens/3-d7a5.jpg"
-    }, {
-        "id": "45",
-        "categoria": "2",
-        "imagem_id": "3",
-        "url": "http://localhost:9000/uploads/atividades/imagens/3-b9921.jpg"
-    }, {
-        "id": "51",
-        "categoria": "2",
-        "imagem_id": "3",
-        "url": "http://turismo-quissama.000webhostapp.com/uploads/eventos/imagens/3-8a061.jpg"
-    }]
+    "imagens": [
+        {
+            "url": "http://localhost:9000/uploads/atividades/imagens/3-1346a.jpg"
+        }, {
+            "url": "http://localhost:9000/uploads/atividades/imagens/3-d7a5.jpg"
+        }, {
+            "url": "http://localhost:9000/uploads/atividades/imagens/3-b9921.jpg"
+        }, {
+            "url": "http://turismo-quissama.000webhostapp.com/uploads/eventos/imagens/3-8a061.jpg"
+        }
+    ]
 }]

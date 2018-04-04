@@ -11,9 +11,7 @@
     "funcionamento_inicio": "00:01:00",
     "funcionamento_fim": "23:59:00",
     "imagem_existe": true,
-    "imagens": [{
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/26-af8b6.jpg"
-    }]
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/26-af8b6.jpg"}]
   }, {
     "id": "52",
     "nome": "Parque Nacional da Restinga de Jurubatiba",
@@ -27,19 +25,12 @@
     "funcionamento_inicio": "00:01:00",
     "funcionamento_fim": "23:59:00",
     "imagem_existe": true,
-    "imagens": [{
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-aff80.jpg"
-    }, {
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-9d6d9.jpg"
-    }, {
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6314d.jpg"
-    }, {
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-6b46b.jpg"
-    }, {
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-5e0d.jpg"
-    }, {
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/28-2f006.jpg"
-    }]
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-aff80.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-9d6d9.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-6314d.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-6b46b.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-5e0d.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-2f006.jpg"}]
   }, {
     "id": "53",
     "nome": " Fazenda Trindade",
@@ -53,9 +44,7 @@
     "funcionamento_inicio": "08:00:00",
     "funcionamento_fim": "18:00:00",
     "imagem_existe": true,
-    "imagens": [{
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/32-721a0.jpg"
-    }]
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/32-721a0.jpg"}]
   }, {
     "id": "54",
     "nome": "Praia de Barra do Furado",
@@ -69,9 +58,7 @@
     "funcionamento_inicio": "00:00:00",
     "funcionamento_fim": "00:00:00",
     "imagem_existe": true,
-    "imagens": [{
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/33-d481d.jpg"
-    }]
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/33-d481d.jpg"}]
   }, {
     "id": "55",
     "nome": "Betos Bar",
@@ -85,13 +72,9 @@
     "funcionamento_inicio": "08:00:00",
     "funcionamento_fim": "22:00:00",
     "imagem_existe": true,
-    "imagens": [{
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-87044.jpg"
-    }, {
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-89235.jpg"
-    }, {
-      "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/36-2c6f0.jpg"
-    }]
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/36-87044.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/36-89235.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/36-2c6f0.jpg"}]
   }, {
     "id": "56",
     "nome": "Deguste",
@@ -105,17 +88,13 @@
     "funcionamento_inicio": "17:00:00",
     "funcionamento_fim": "03:00:00",
     "imagem_existe": true,
-    "imagens": [{
-      "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-626bf.jpg"
-    }, {
-      "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-c03b0.jpg"
-    }, {
-      "url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/imagens/40-d3520.jpg"
-    }]
+    "imagens": [{"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/40-626bf.jpg"},
+    {"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/40-c03b0.jpg"},
+    {"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/40-d3520.jpg"}]
   }, {
     "id": "57",
     "nome": "Pousada do Mano",
-    "descricao": "<p>Hotel é trivago</p>",
+    "descricao": "<p>Pousada do Mano</p>",
     "informacoes": "",
     "endereco": "Rua Eusébio Queiroz, 337 Quissamã",
     "categoria_id": "6",
@@ -194,8 +173,11 @@
     "circuito_id": "1",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/1.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/2.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/3.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/4.jpg"}]
   }, {
     "id": "63",
     "nome": "Museu Casa Quissamã",
@@ -208,8 +190,14 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/1.jpg"},
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/2.jpg"},
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/3.jpg"},
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/4.jpg"},
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/5.jpg"}
+    ]
   }, {
     "id": "64",
     "nome": "Fazenda São Miguel",
@@ -222,8 +210,9 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/miguel/1.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/miguel/2.jpg"}]
   }, {
     "id": "65",
     "nome": "Estação Ferroviária de Conde de Araruama",
@@ -236,8 +225,11 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/1.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/2.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/3.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/4.jpg"}]
   }, {
     "id": "66",
     "nome": "Fazenda Mandiquera",
@@ -264,8 +256,12 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/1.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/2.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/3.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/4.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/5.jpg"}]
   }, {
     "id": "68",
     "nome": "Fazenda São Manoel",
@@ -292,8 +288,10 @@
     "circuito_id": "3",
     "funcionamento_inicio": "8:00:00",
     "funcionamento_fim": "18:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/sobradinho/1.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/sobradinho/2.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/sobradinho/3.jpg"}]
   }, {
     "id": "72",
     "nome": "Espaço Cultural José Carlos de Barcellos",
@@ -306,8 +304,8 @@
     "circuito_id": "3",
     "funcionamento_inicio": "8:00:00",
     "funcionamento_fim": "18:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/leninha/1.jpg"}]
   }, {
     "id": "73",
     "nome": "Canal Campos-Macaé",
@@ -320,8 +318,11 @@
     "circuito_id": "2",
     "funcionamento_inicio": "6:00:00",
     "funcionamento_fim": "23:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/1.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/2.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/3.jpg"},
+    {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/4.jpg"}]
   }, {
     "id": "74",
     "nome": "Chácara São João",
@@ -362,7 +363,11 @@
     "circuito_id": "3",
     "funcionamento_inicio": "6:00:00",
     "funcionamento_fim": "22:00:00",
-    "imagem_existe": false,
-    "imagens": []
+    "imagem_existe": true,
+    "imagens": [
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/igreja/1.jpg"},
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/igreja/2.jpg"},
+    	{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/igreja/3.jpg"}
+    ]
   }
 ]
