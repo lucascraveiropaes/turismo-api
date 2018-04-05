@@ -53,10 +53,12 @@
 		$lugares  	= json_decode( file_get_contents("./data/lugares.json", true) );
 		$eventos  	= json_decode( file_get_contents("./data/eventos.json", true) );
 		$atividades = json_decode( file_get_contents("./data/atividades.json", true) );
+		$agenda 	= json_decode( file_get_contents("./data/agenda.json", true) );
 
 		$result = formatContent($lugares, $result, $query, "Lugar");
 		$result = formatContent($eventos, $result, $query, "Evento");
 		$result = formatContent($atividades, $result, $query, "Atividade");
+		$result = formatContent($agenda, $result, $query, "Agenda");
 
 		usort($result, "cmp");
 		$result = array_slice($result, 0, 10);

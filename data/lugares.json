@@ -10,21 +10,19 @@
     "circuito_id": "2",
     "funcionamento_inicio": "00:01:00",
     "funcionamento_fim": "23:59:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/26-af8b6.jpg"}]
   }, {
     "id": "52",
     "nome": "Parque Nacional da Restinga de Jurubatiba",
     "descricao": "Única área de preservação dedicada à vegetação de restinga, o Parque Nacional de Jurubatiba é um dos maiores tesouros ambientais do país. Criado por Decreto Federal em 24 de abril de 1998, Jurubatiba é uma Unidade de Conservação Federal que tem como objetivo preservar o patrimônio natural. O parque possui 44 km de praias, 14.860 hectares de restinga, com 18 lagoas costeiras de rara beleza e de grande interesse ecológico. Ele abrange os municípios de Carapebus, Macaé e Quissamã. Telefone: (22) 2765-6024 Email: parnajurubatiba@icmbio.gov.br",
     "informacoes": "  <b>Criação:</b> <br>24 de abril de 1998  <b>Praias:</b> <br>44 Kilômetros  <b>Restinga:</b> <br>14.860 Hectares  <b>Lagoas:</b> <br>18  <b>Telefone:</b> <br>(22) 2765-6024  <b>Email:</b> <br>(22) parnajurubatiba@icmbio.gov.br",
-    "endereco": "jurubatiba, Quissamã",
+    "endereco": "Jurubatiba, Quissamã",
     "categoria_id": "15",
     "latitude": "-22.2044949",
     "longitude": "-41.500341100000014",
     "circuito_id": "2",
     "funcionamento_inicio": "00:01:00",
     "funcionamento_fim": "23:59:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-aff80.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-9d6d9.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-6314d.jpg"},
@@ -32,7 +30,7 @@
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-5e0d.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/28-2f006.jpg"}]
   }, {
-    "id": "53",
+    "id": "6",
     "nome": " Fazenda Trindade",
     "descricao": "<p>Concluída em 1909, a sede da Fazenda Trindade tem o estilo dos chalés românticos do fim do século XIX . Além da sede, encontram-se preservadas algumas moradias de colonos e uma antiga casa de farinha. Trabalhado em pedra mármore colorida, com um desenho que forma um relógio de sol, o terraço fronteiro foi trazido da Casa de Capivari. Hoje, a fazenda, além de servir como residência, produz coco e abacaxi e possui criação de gado. Horário de Funcionamento: As visitas devem ser agendadas com antecedência nas agências de turismo de Quissamã. </p>",
     "informacoes": "<p><strong>Telefone:</strong> (22) 2768-1306<br><br><strong>Endereço:</strong> RJ 196, km 13</p>",
@@ -43,7 +41,6 @@
     "circuito_id": "3",
     "funcionamento_inicio": "08:00:00",
     "funcionamento_fim": "18:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/32-721a0.jpg"}]
   }, {
     "id": "54",
@@ -57,7 +54,6 @@
     "circuito_id": "2",
     "funcionamento_inicio": "00:00:00",
     "funcionamento_fim": "00:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/33-d481d.jpg"}]
   }, {
     "id": "55",
@@ -71,7 +67,6 @@
     "circuito_id": "0",
     "funcionamento_inicio": "08:00:00",
     "funcionamento_fim": "22:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/36-87044.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/36-89235.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/36-2c6f0.jpg"}]
@@ -87,7 +82,6 @@
     "circuito_id": "0",
     "funcionamento_inicio": "17:00:00",
     "funcionamento_fim": "03:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/40-626bf.jpg"},
     {"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/40-c03b0.jpg"},
     {"url": "http://turismo-quissama.000webhostapp.com/uploads/lugares/40-d3520.jpg"}]
@@ -103,7 +97,6 @@
     "circuito_id": "0",
     "funcionamento_inicio": "06:00:00",
     "funcionamento_fim": "23:59:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pmano/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pmano/2.jpg"}]
   }, {
@@ -118,7 +111,6 @@
     "circuito_id": "0",
     "funcionamento_inicio": "05:30:00",
     "funcionamento_fim": "22:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/postobr/1.jpg"}]
   }, {
     "id": "59",
@@ -160,10 +152,9 @@
     "circuito_id": "0",
     "funcionamento_inicio": "06:00:00",
     "funcionamento_fim": "22:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/bb/1.jpg"}]
   }, {
-    "id": "62",
+    "id": "3",
     "nome": "Fazenda Machadinha",
     "descricao": "<p>Tombada pelo Instituto Estadual do Patrimônio Cultural (Inepac) em 1979, a Fazenda Machadinha possui valor histórico no que restou de sua casa grande, erguida entre 1853 e 1867, senzalas, armazéns e a capela em homenagem a Nossa Senhora do Patrocínio, construídas em 1833.</p><p>A casa grande não pôde ser conservada, mas as senzalas foram restauradas e ganharam anexos que ainda respeitam a arquitetura original, onde descendentes de quilombolas ainda as fazem de lar.</p>",
     "informacoes": "<p>No local, funciona o Complexo Cultural Fazenda Machadinha</p><p>Telefone: 2768-9300</p>",
@@ -174,13 +165,12 @@
     "circuito_id": "1",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/3.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/machadinha/4.jpg"}]
   }, {
-    "id": "63",
+    "id": "2",
     "nome": "Museu Casa Quissamã",
     "descricao": "<p>Criado pela Prefeitura Municipal em 2006, o museu foi residência do primeiro Visconde de Araruama e em seguida, de seu filho, o Visconde de Quissamã.</p><p>O imóvel estava em ruínas, mas foi totalmente restaurado e ambientado com decoração e móveis dos séculos XVIII e XIX. O museu conta com duas salas com memoriais descritivo e ilustrado e catálogo impresso.</p><p><br></p><p>Ao lado do museu, é possível ver um dos poucos exemplares de Baobás no estado do Rio de Janeiro.</p><p>O baobá é um objeto de culto de religiões africanas, a 'árvore da palavra e da sabedoria' é nativa da ilha de Madagascar, mas está presente, mesmo que de forma discreta, no estado do Rio de Janeiro. Há apenas três delas em território fluminense: no Jardim Botânico da capital, na Ilha de Paquetá e em Quissamã.</p><p>A árvore adorna a",
     "informacoes": "<p>Aberto a visitação de quarta a domingo</p><p>Telefone: 2768-1332</p><p>E-mail: fcultura.quissama@gmail.com</p>",
@@ -191,14 +181,13 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/3.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/4.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/museu/5.jpg"}]
   }, {
-    "id": "64",
+    "id": "4",
     "nome": "Fazenda São Miguel",
     "descricao": "<p>Fundada em 1858, foi a primeira moradia do Barão e Visconde de Quissamã. Vendida no fim do século XIX, a fazenda acabou nas mãos do engenheiro francês M. Bodaine, que construiu em 1908 o solar que hoje é visitado. A casa é odeada de palmeiras e eucaliptos e ariga móveis e objetos do início do século.</p>",
     "informacoes": "<p>As visitas devem ser agendadas com até 24h de antecedência em agências de turismo da cidade</p><p>Telefone: 2768-1250</p>",
@@ -209,11 +198,10 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/miguel/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/miguel/2.jpg"}]
   }, {
-    "id": "65",
+    "id": "5",
     "nome": "Estação Ferroviária de Conde de Araruama",
     "descricao": "<p>Inaugurada em 1875, teve grande importância para o município por ter sido o centro comercial da cidade entre os séculos XIX e XX. Foi construida para que o transporte de cargas e passageiros entre as propriedades açucareiras fosse mais rápido.</p></br><p>Suas ramificações possibilitavam o acesso às fazendas de Mandiquera, Machadinha, São Miguel, Santa Francisca e outras.</p></br><p>Foi o primeiro local da cidade a ter telefone.</p>",
     "informacoes": "<p>Telefone: 2768-9300</p>",
@@ -224,13 +212,12 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/3.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/conde/4.jpg"}]
   }, {
-    "id": "66",
+    "id": "8",
     "nome": "Fazenda Mandiquera",
     "descricao": "<p>O projeto original é do arquiteto e empreiteiro alemão Antônio Becker. A sede da fazenda é um importante solar em estilo neoclássico</p></br><p>Inaugurado em 1875, a construção é considerada uma obra monumental para os padrões da oligarquia canavieira da época.</p></br><p>Além de ter recebido a visita do Imperador Dom Pedro II, a sede da fazenda também foi locação para os filmes O Coronel e o Lobisomem (2005) e Deu no New York Times (1987).</p><p>A Fazenda Mandiquera foi tombada pelo Instituto Estadual do Patrimônio Cultural (Inepac) em 2007.</p>",
     "informacoes": "<p>Telefone: 2768-9300</p>",
@@ -241,12 +228,11 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/mandiquera/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/mandiquera/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/mandiquera/3.jpg"}]
   }, {
-    "id": "67",
+    "id": "9",
     "nome": "Engenho Central de Quissamã",
     "descricao": "<p>Inaugurado em 1877, este foi o primeiro engenho da América do Sul e possuia máquinas a vapor da época de sua inauguração funcionando até o fim dos anos 80.</p></br><p>As locomotivas usadas para transportar os Barões e Viscondes até a vila e a cana de açucar das fazendas para a Usina ainda se encontram no pátio da indústria desativada.</p>",
     "informacoes": "<p>A entrada é proibida, pois a usina está em ruínas.</p>",
@@ -257,14 +243,13 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/3.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/4.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/usina/5.jpg"}]
   }, {
-    "id": "68",
+    "id": "7",
     "nome": "Fazenda São Manoel",
     "descricao": "<p>A fazenda encontr-se em ótimo estado de conservação. Construída no fim do século XIX, a casa mostra aspectos do fim da era neoclassica e do início da era eclética. Podemos observar isso nos arcos góticos da fachada a transição.</p></br><p>Na fazenda ainda estão móveis e objetos da época, além de várias construções também antigas ao seu redor.</p>",
     "informacoes": "<p>As visitas devem ser agendadas com antecedência em agências de turismo de Quissamã</p>",
@@ -275,11 +260,10 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/manoel/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/manoel/2.jpg"}]
   }, {
-    "id": "69",
+    "id": "13",
     "nome": "Centro Cultural Sobradinho",
     "descricao": "<p>O Sobradinho é um casarão da década de 1870 que ganhou um segundo pavimento em 1885.</p><p>Em 2005, a antiga casa de Francisca Romana do Patrocínio, dama de companhia da baronesa de Villa Franca, e de seu sobrinho José David Paula foi comprada pela prefeitura de Quissamã, que começou o processo de restauração no ano seguinte.</p></br> <p> No final do século XIX, a família Paula permitiu a construção da Estação da Freguesia, que viraria o centro de um total de 40 Km de linha férrea, ao entorno da propriedade.</p></br><p>Ainda com as características originais preservadas, o prédio ganhou um elevador e um anexo na parte de trás do terreno.</p></br><p>Com o objetivo de agregar iniciativas educacionais e culturais, o Sobradinho possui telão de exposições, sala de música, multimídia, leitura e dança, biblioteca infantil, um mini palco para atividades teatrais e cantina.</p></br><p> No local também funcionam a Biblioteca Municipal de Quissamã, o Cine Quissamã, o Café da Romana e uma réplica da antiga Estação Ferroviária.</p>",
     "informacoes": "<p>Diversas oficinas podem ser encontradas no Sobradinho, tais como desenho, dança, música, xadrez e teatro</p></br><p>Telefone: 2768-1306</p>",
@@ -290,12 +274,11 @@
     "circuito_id": "3",
     "funcionamento_inicio": "8:00:00",
     "funcionamento_fim": "18:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/sobradinho/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/sobradinho/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/sobradinho/3.jpg"}]
   }, {
-    "id": "72",
+    "id": "10",
     "nome": "Espaço Cultural José Carlos de Barcellos",
     "descricao": "<p>Cercado por uma vegetação original da restinga, o Espaço possui um grande acervo de originais e réplicas de peças antigas, como documentos, fotografias, plantas, postais, moedas, pinturas e mapas de Quissamã.</p>",
     "informacoes": "<p>Espaço aberto à visitações agendadas.</p></br><p>Celular: (22)99977-8828</p></br><p>Telefone: 2768-1365</p>",
@@ -306,10 +289,9 @@
     "circuito_id": "3",
     "funcionamento_inicio": "8:00:00",
     "funcionamento_fim": "18:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/leninha/1.jpg"}]
   }, {
-    "id": "73",
+    "id": "1",
     "nome": "Canal Campos-Macaé",
     "descricao": "<p>Construído por escravos durante 17 anos, o Canal foi inaugurado em 1861 e possui cerca de 109 km de extensão, sendo o segundo canal artificial mais longo do mundo.</p>",
     "informacoes": "<p>O Canal passa pelas cidades de Campos dos Goytacazes, Quissamã, Carapebus e Macaé</p><",
@@ -320,13 +302,12 @@
     "circuito_id": "2",
     "funcionamento_inicio": "6:00:00",
     "funcionamento_fim": "23:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/3.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/canal/4.jpg"}]
   }, {
-    "id": "74",
+    "id": "11",
     "nome": "Chácara São João",
     "descricao": "<p>Erguida em 1882, a chácara era a moradia da família do nobre João José Carneiro da Silva. Após sua morte, seu irmão, o Barão José Caetano se mudou para a chácara com a família, onde viveu até 1931.</p></br><p>Depois de nove anos fechada, Ana Francisca, filha da Baronesa e seu filho Bento Cavour, chegaram à chácara e atualmente sua família é a proprietária do imóvel.</p>",
     "informacoes": "<p>Visitas devem ser agendadas com antecedência.</p>",
@@ -337,11 +318,10 @@
     "circuito_id": "3",
     "funcionamento_inicio": "9:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/joao/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/joao/2.jpg"}]
   }, {
-    "id": "75",
+    "id": "14",
     "nome": "Estação Ferroviária do Centro",
     "descricao": "<p>Inaugurada em 2009, a réplica reproduz em detalhes a antiga Estação da Freguesia, construída no final do século XIX.</p></br><p>Localizada no Centro Cultural Sobradinho, podemos encontrar objetos da época e uma maquete animada que reproduz o antigo percurso do trem entre as principais fazendas de Quissamã.</p>",
     "informacoes": "<p>Email: <a href='mailto: sobradinho.quissama @gmail.com'>sobradinho.quissama@gmail.com</a> </p></br><p>Celular: (22)99283-5709</p></br><p>Telefone: 2768-1306</p>",
@@ -352,11 +332,10 @@
     "circuito_id": "3",
     "funcionamento_inicio": "8:00:00",
     "funcionamento_fim": "18:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/estCentro/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/estCentro/2.jpg"}]
   }, {
-    "id": "76",
+    "id": "11",
     "nome": "Igreja Matriz Nossa Senhora do Desterro",
     "descricao": "<p>A primeira Igreja Matriz foi inaugurada em 1815. Em 1924 foi inaugurada a atual Igreja Matriz de Quissamã.</p></br><p>A Igreja possui um estilo eclético europeu com elementos dos templos religiosos da Alemanha do início do século XX.</p>",
     "informacoes": "<p>Há no interior da Igreja, altares e imagens sacras da antiga matriz.</p></br><p>Telefone: 2768-1123</p>",
@@ -367,12 +346,11 @@
     "circuito_id": "3",
     "funcionamento_inicio": "6:00:00",
     "funcionamento_fim": "22:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/igreja/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/igreja/2.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/igreja/3.jpg"}]
   }, {
-    "id": "77",
+    "id": "15",
     "nome": "Casa Mato de Pipa",
     "descricao": "<p>Erguida entre 1777 e 1782 por Manuel Carneiro da Silva, capitão das aldeias dos índios em Quissamã. Assim que a obra foi concluída, Manuel passou a residir na casa com sua esposa Ana Francisca de Velasco Távora Barcellos Coutinho.</p></br><p>Nesta casa, em 1788, o 1º Visconde de Araruama, filho do casal, nasceu.</p>",
     "informacoes": "<p>Primeira casa de telhas construida na região.</p></br><p>Casa mais antiga de Quissamã.</p></br><p>Telefone: 2768-1150</p>",
@@ -383,7 +361,6 @@
     "circuito_id": "3",
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
-    "imagem_existe": true,
     "imagens": [{"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pipa/1.jpg"},
     {"url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pipa/2.jpg"}]
   }

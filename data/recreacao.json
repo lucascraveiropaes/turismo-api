@@ -9,4 +9,59 @@
     "latitude": "-22.10804586",
     "longitude": "-41.4758865",
     "imagens": []
+}, {
+  "id": 2,
+  "nome": "Escolinha de basquete",
+  "descricao": "<p>As aulas acontecem com o professores Antônio e Leonardo na quadra ao lado do ginásio poliesportivo municipal.</p>",
+  "informacoes": "<p>Os treinos acontem segunda, quarta, quinta e sexta das 19h às 20:30</p>",
+  "hora_inicio": "19:00:00",
+  "hora_fim": "20:30:00",
+  "endereco": "Estrada do Correio Imperial",
+  "latitude": "-22.11202488",
+  "longitude": "-41.47522105",
+  "imagens": []
+}, {
+  "id": 3,
+  "nome": "Escolinha de handebol",
+  "descricao": "<p>As aulas acontecem no ginásio poliesportivo municipal com o professor Alex.</p>",
+  "informacoes": "<p>Os treinos acontem aos sábados de 8h às 11h</p>",
+  "hora_inicio": "08:00:00",
+  "hora_fim": "11:00:00",
+  "endereco": "Estrada do Correio Imperial",
+  "latitude": "-22.11230319",
+  "longitude": "-41.47561802",
+  "imagens": []
+},{
+  "id": 4,
+  "nome": "Passeio em Jurubatiba",
+  "descricao": "<p>Um passeio de caminhão pelo Parque Nacional da Restinga de Jurubatiba.</p>",
+  "informacoes": "<p>Os passeios devem ser agendados com antecedência pelo telefone 2768-9300</p>",
+  "hora_inicio": "08:00:00",
+  "hora_fim": "16:00:00",
+  "endereco": "Estrada Roberto Pinto de Barcelos",
+  "latitude": "-22.20182004",
+  "longitude": "-41.50175221",
+  "imagens": []
+}, {
+  "id": 5,
+  "nome": "Acampar na praia",
+  "descricao": "<p>As praias recomendadas para acampamento são as praias de João Francisco e Visgueiro.</p>",
+  "informacoes": "<p>Lembre-se de não jogar lixo na praia.</p>",
+  "hora_inicio": "08:00:00",
+  "hora_fim": "20:00:00",
+  "endereco": "João Francisco",
+  "latitude": "-22.20835213",
+  "longitude": "-41.47380882",
+  "imagens": []
+},{
+  "id": 6,
+  "nome": "Futebol",
+  "descricao": "<p>É bem comum achar grupos de pessoas jogando futebol nas quadras da cidade. Marque com seus amigos e se divirtam.</p>",
+  "informacoes": "<p>É possível encontrar uma quadra disponível nos seguintes bairros: Alto Alegre, Piteiras, Caxias, Morro Alto, Canto da Saudade, Carmo e Mathias.</p>",
+  "hora_inicio": "08:00:00",
+  "hora_fim": "20:00:00",
+  "endereco": "João Francisco",
+  "latitude": "-22.20835213",
+  "longitude": "-41.47380882",
+  "imagens": []
 }]

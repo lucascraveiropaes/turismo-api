@@ -56,21 +56,46 @@
 		return ($a->nome < $b->nome) ? -1 : 1;
 	}
 
+	function clearString($string) {
+		$string = str_replace('-', '', $string);
+		$string = str_replace('/', '', $string);
+		$string = str_replace('(', '', $string);
+		$string = str_replace(')', '', $string);
+		$string = str_replace('  ', ' ', $string);
+
+		return strtolower($string);
+	}
+
 	function formatContent($data, $result, $query, $category) {
+
 		for ($i=0; $i < count($data); $i++) {
 			$imagem = "";
-			if (count($data[$i]->imagens) > 0) {
-				$imagem = $data[$i]->imagens[0]->url;
+			$excerpt = "";
+			$position = 100;
+
+			$stringsEqual = similar_text ( clearString($data[$i]->nome), clearString($query) );
+			$position = ( 100 / strlen(clearString($query)) ) * $stringsEqual;
+
+			if (array_key_exists("imagens",$data[$i])) {
+				if (count($data[$i]->imagens) > 0)
+					$imagem = $data[$i]->imagens[0]->url;
 			}
+
+			if ($category == "Agenda")
+				$excerpt = $data[$i]->telefones[0];
+			else
+				$excerpt = mb_convert_encoding(substr($data[$i]->descricao, 0, 60),"UTF-8","auto");
 
 			$obj = new stdClass;
 			$obj->id = $data[$i]->id;
 			$obj->nome = $data[$i]->nome;
 			$obj->imagem = $imagem;
+			$obj->excerpt = $excerpt;
+
 			//$obj->excerpt = utf8ize(substr($data[$i]->descricao, 0, 60) . "...");
-			$obj->excerpt = substr($data[$i]->descricao, 0, 60) . "...";
+			//$obj->excerpt = substr($data[$i]->descricao, 0, 60) . "...";
 			$obj->category = $category;
-			$obj->position = similar_text(strtolower($data[$i]->nome), strtolower($query));
+			$obj->position = $position;
 			array_push($result, $obj);
 		}
 
