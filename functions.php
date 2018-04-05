@@ -49,6 +49,13 @@
 		return ($a->position < $b->position) ? 1 : -1;
 	}
 
+	function alphabeticalOrderByName($a, $b) {
+		if ($a->nome == $b->nome) {
+			return -1;
+		}
+		return ($a->nome < $b->nome) ? -1 : 1;
+	}
+
 	function formatContent($data, $result, $query, $category) {
 		for ($i=0; $i < count($data); $i++) {
 			$imagem = "";

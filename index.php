@@ -76,6 +76,7 @@
 
 		if ($category == "agenda") {
 			$result = $data;
+			usort($result, "alphabeticalOrderByName");
 		}
 		else {
 			for ($i=0; $i < count($data); $i++) {
