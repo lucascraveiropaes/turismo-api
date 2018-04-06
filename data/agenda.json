@@ -48,25 +48,25 @@
 	},
 	{
 		"id": 9,
-		"nome": "Comercial Sao Vicente",
+		"nome": "Comercial São Vicente",
 		"telefones": ["022 2768-1052"],
 		"endereco": "Rua Barrao de Monte Cedro, 483"
 	},
 	{
 		"id": 10,
-		"nome": "Portal Do Sitio Madeiras",
+		"nome": "Portal Do Sítio Madeiras",
 		"telefones": ["022 2768-2909"],
 		"endereco": "Estrada Fernando Caldas C. Da Silva, s/n"
 	},
 	{
 		"id": 11,
-		"nome": "Claudio E Delia Armarinho E Modas",
+		"nome": "Claudio e Délia Armarinho e Modas",
 		"telefones": ["022 2768-1036"],
 		"endereco": "Rua Visconde De Quissamã, 237 - Centro"
 	},
 	{
 		"id": 12,
-		"nome": "Veterinaria Quissamã",
+		"nome": "Veterinária Quissamã",
 		"telefones": ["022 2768-1899", "99913-8802", "98138-7187"],
 		"endereco": "Rua Princesa Isabel, 162"
 	},
@@ -84,13 +84,13 @@
 	},
 	{
 		"id": 15,
-		"nome": "Eloin Contabil",
+		"nome": "Eloin Contábil",
 		"telefones": ["022 2768-2157", "022 98807-6590", "2734-2381"],
 		"endereco": "Rua Visconde De Quissamã, 342 - Centro"
 	},
 	{
 		"id": 16,
-		"nome": "Dr.Gabriel Goncalves Nogueira - Cirurgiao-Dentista",
+		"nome": "Dr. Gabriel Goncalves Nogueira - Cirurgiao-Dentista",
 		"telefones": ["022 2768-2201", "022 2762-5460"],
 		"endereco": "Rua Bento Carneiro Da Silva, 05-Centro"
 	},
@@ -108,7 +108,7 @@
 	},
 	{
 		"id": 19,
-		"nome": "Hortifruti Farturao De Caxias",
+		"nome": "Hortifruti Farturão de Caxias",
 		"telefones": ["022 2768-6520", "2768-2262"],
 		"endereco": "Visconde De Quissamã, s/n - Caxias"
 	},
@@ -126,7 +126,7 @@
 	},
 	{
 		"id": 22,
-		"nome": "c.Barcelos Materiais De Construcao",
+		"nome": "C. Barcelos Materiais De Construcao",
 		"telefones": ["022 2768-1134"],
 		"endereco": "Visconde De Quissamã, 342 - Centro"
 	},
@@ -138,7 +138,7 @@
 	},
 	{
 		"id": 24,
-		"nome": "Mecanica Do Fabio Auto Pecas",
+		"nome": "Mecânica Do Fabio Auto Pecas",
 		"telefones": ["022 2768-1883", "99814-4949"],
 		"endereco": "Rua Conde De Araruama, 09"
 	},
@@ -150,7 +150,7 @@
 	},
 	{
 		"id": 26,
-		"nome": "Posto Quissaman",
+		"nome": "Posto Quissamã",
 		"telefones": ["022 2768-1140"],
 		"endereco": "Av. Barrao De Vila Franca, 07"
 	},
@@ -162,13 +162,13 @@
 	},
 	{
 		"id": 28,
-		"nome": "Natu Color",
+		"nome": "NatuColor",
 		"telefones": ["022 2768-1735"],
 		"endereco": "Rua Barrao De Monte Cedro, 107"
 	},
 	{
 		"id": 29,
-		"nome": "Vidracaria e Serralheria Central",
+		"nome": "Vidraçaria e Serralheria Central",
 		"telefones": ["99926-5322"],
 		"endereco": "Visconde De Quissamã, 210 - Centro"
 	},
