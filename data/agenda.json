@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"id": 1,
 		"nome": "CLIN-LAB",
 		"telefones": ["022 2768-1655", "022 99861-2561"],
@@ -68,7 +67,7 @@
 	{
 		"id": 12,
 		"nome": "Veterinaria Quissamã",
-		"telefones": ["022 2768-1899"],
+		"telefones": ["022 2768-1899", "99913-8802", "98138-7187"],
 		"endereco": "Rua Princesa Isabel, 162"
 	},
 	{
@@ -76,5 +75,107 @@
 		"nome": "Engequissa",
 		"telefones": ["022 2768-7043"],
 		"endereco": "Rua Barrao De Monte Cedro, s/n - Centro"
+	},
+	{
+		"id": 14,
+		"nome": "Certa Contabilidade",
+		"telefones": ["022 2768-2238", "99913-8802"],
+		"endereco": "Av.barão de Vila Franca"
+	},
+	{
+		"id": 15,
+		"nome": "Eloin Contabil",
+		"telefones": ["022 2768-2157", "022 98807-6590", "2734-2381"],
+		"endereco": "Rua Visconde De Quissamã, 342 - Centro"
+	},
+	{
+		"id": 16,
+		"nome": "Dr.Gabriel Goncalves Nogueira - Cirurgiao-Dentista",
+		"telefones": ["022 2768-2201", "022 2762-5460"],
+		"endereco": "Rua Bento Carneiro Da Silva, 05-Centro"
+	},
+	{
+		"id": 17,
+		"nome": "Odonto Service",
+		"telefones": ["022 2768-2990", "99816-1144"],
+		"endereco": "Av.Francisco De Assis Carneiro Da Silva, 714-Caxias"
+	},
+	{
+		"id": 18,
+		"nome": "Drogaria SerraMar",
+		"telefones": ["022 2768-2901"],
+		"endereco": "Rua Princesa Isabel, 178-Centro"
+	},
+	{
+		"id": 19,
+		"nome": "Hortifruti Farturao De Caxias",
+		"telefones": ["022 2768-6520", "2768-2262"],
+		"endereco": "Visconde De Quissamã, s/n - Caxias"
+	},
+	{
+		"id": 20,
+		"nome": "StarSat",
+		"telefones": ["022 2768-6293", "2768-1356"],
+		"endereco": "Visconde De Quissamã, 47 - Centro"
+	},
+	{
+		"id": 21,
+		"nome": "Work Banda Larga",
+		"telefones": ["022 2768-6611", "99829-5010"],
+		"endereco": "Visconde De Ururaí, 511 - Centro"
+	},
+	{
+		"id": 22,
+		"nome": "c.Barcelos Materiais De Construcao",
+		"telefones": ["022 2768-1134"],
+		"endereco": "Visconde De Quissamã, 342 - Centro"
+	},
+	{
+		"id": 23,
+		"nome": "Raio De Luz",
+		"telefones": ["022 2768-1266", "2768-7166", "98125-2441"],
+		"endereco": "Rua Frei Fabiano, 123 - Centro"
+	},
+	{
+		"id": 24,
+		"nome": "Mecanica Do Fabio Auto Pecas",
+		"telefones": ["022 2768-1883", "99814-4949"],
+		"endereco": "Rua Conde De Araruama, 09"
+	},
+	{
+		"id": 25,
+		"nome": "Auto Posto Nossa Senhora Do Desterro",
+		"telefones": ["022 2768-7026"],
+		"endereco": "Av.Fernando Caldas Carneiro Da Silva, 196"
+	},
+	{
+		"id": 26,
+		"nome": "Posto Quissaman",
+		"telefones": ["022 2768-1140"],
+		"endereco": "Av. Barrao De Vila Franca, 07"
+	},
+	{
+		"id": 27,
+		"nome": "Cantina e Pousada da Ze",
+		"telefones": ["022 2768-2041"],
+		"endereco": "Rua Frei Fabiano, 164 - Centro"
+	},
+	{
+		"id": 28,
+		"nome": "Natu Color",
+		"telefones": ["022 2768-1735"],
+		"endereco": "Rua Barrao De Monte Cedro, 107"
+	},
+	{
+		"id": 29,
+		"nome": "Vidracaria e Serralheria Central",
+		"telefones": ["99926-5322"],
+		"endereco": "Visconde De Quissamã, 210 - Centro"
+	},
+	{
+		"id": 30,
+		"nome": "Bazar Zilafer",
+		"telefones": ["022 2768-6520", "2768-2262"],
+		"endereco": "Rua Frei Joao Batista, 231"
 	}
 ]
