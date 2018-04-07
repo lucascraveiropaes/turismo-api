@@ -17,7 +17,7 @@
     "id": "52",
     "nome": "Parque Nacional da Restinga de Jurubatiba",
     "descricao": "Única área de preservação dedicada à vegetação de restinga, o Parque Nacional de Jurubatiba é um dos maiores tesouros ambientais do país. Criado por Decreto Federal em 24 de abril de 1998, Jurubatiba é uma Unidade de Conservação Federal que tem como objetivo preservar o patrimônio natural. O parque possui 44 km de praias, 14.860 hectares de restinga, com 18 lagoas costeiras de rara beleza e de grande interesse ecológico. Ele abrange os municípios de Carapebus, Macaé e Quissamã. Telefone: (22) 2765-6024 Email: parnajurubatiba@icmbio.gov.br",
-    "informacoes": "  <b>Criação:</b> <br>24 de abril de 1998  <b>Praias:</b> <br>44 Kilômetros  <b>Restinga:</b> <br>14.860 Hectares  <b>Lagoas:</b> <br>18  <b>Telefone:</b> <br>(22) 2765-6024  <b>Email:</b> <br>(22) parnajurubatiba@icmbio.gov.br",
+    "informacoes": "<b>Criação:</b><br>24 de abril de 1998<br><br><b>Praias:</b><br>44 Kilômetros<br><br><b>Restinga:</b><br>14.860 Hectares<br><br><b>Lagoas:</b><br>18 lagoas no total<br><br><b>Telefone:</b><br>(22) 2765-6024<br><br><b>Email:</b><br><a href='mailto:parnajurubatiba@icmbio.gov.br'>parnajurubatiba@icmbio.gov.br",
     "endereco": "Jurubatiba, Quissamã",
     "categoria_id": "15",
     "latitude": "-22.2044949",
@@ -200,7 +200,7 @@
     "id": "1",
     "nome": "Canal Campos-Macaé",
     "descricao": "<p>Construído por escravos durante 17 anos, o Canal foi inaugurado em 1861 e possui cerca de 109 km de extensão, sendo o segundo canal artificial mais longo do mundo.</p>",
-    "informacoes": "<p>O Canal passa pelas cidades de Campos dos Goytacazes, Quissamã, Carapebus e Macaé</p><",
+    "informacoes": "<p>O Canal passa pelas cidades de Campos dos Goytacazes, Quissamã, Carapebus e Macaé</p>",
     "endereco": "Rua Comendador José Julião",
     "categoria_id": "14",
     "latitude": "-22.10451385",
@@ -478,7 +478,7 @@
             "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/prefeitura/1.jpg"
         },
         {
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/preeitura/2.jpg"
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/prefeitura/2.jpg"
         }
     ]
 }, {

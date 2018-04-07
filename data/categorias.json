@@ -1,189 +1,218 @@
 [{
     "id": "2",
     "nome": "Parque Urbano",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-8a477.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-8a477.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Parques Urbanos com predominância de áreas verdes"
 }, {
     "id": "4",
     "nome": "Praia",
-    "imagens": [{ "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-48100.jpg"}]
+    "imagem": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-48100.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de praias marítimas, lacustres e fluviais"
 }, {
     "id": "5",
-    "nome": "Postos de Gasolina",
-    "imagens": [{ "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-9cfd2.jpg"}]
+    "nome": "Abastecimento",
+    "imagem": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-9cfd2.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de postos de abastecimento"
 }, {
     "id": "6",
     "nome": "Hotel e Pousada",
-    "imagens": [{ "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-3ea5a.jpg"}]
+    "imagem": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-3ea5a.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de locais com serviços hoteleiros"
 }, {
     "id": "7",
     "nome": "Restaurantes",
-    "imagens": [{ "url": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-357df.jpg"}]
+    "imagem": "https://turismo-quissama.000webhostapp.com/uploads/categorias/c-357df.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de restaurantes ou lanchonetes"
 }, {
     "id": "8",
     "nome": "Igreja",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-743bd.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-743bd.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Igrejas, capelas, templos, catedrais, basílicas, sinagogas,mesquitas, santuários, conventos, seminários, mosteiros, reconhecidos como de interesse de preservação"
 }, {
     "id": "9",
     "nome": "Lagoa",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-b467f.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-b467f.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de rios, lagos ou lagoas"
 }, {
     "id": "10",
     "nome": "Turismo Rural",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-f2010.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-f2010.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de serviços de hospedagem, alimentação, lazer, compras e outros relacionados ao meio rural"
 }, {
     "id": "11",
     "nome": "Arquitetura Histórica",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-51f57.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-51f57.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Edificações de valor histórico e artístico reconhecidas como de interesse de preservação"
 }, {
     "id": "12",
     "nome": "Monumento",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-11bf7.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-11bf7.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Obeliscos, esculturas, estátuas, bustos, pórticos, chafarizes reconhecidos como de interesse de preservação"
 }, {
     "id": "13",
     "nome": "Museu",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-cc01c.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-cc01c.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de  Locais que abrigam e conservam acervos históricos ou artísticos, abertos à visitação pública, voltados à pesquisa com o objetivo de promover estudos, educação e lazer"
 }, {
     "id": "14",
     "nome": "Patrimônio Cultural",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-84166.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-84166.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Conjunto de atrativos de interesse cultural abrangendo núcleos e centros históricos, rotas e circuitos culturais, reconhecidos como de interesse de preservação"
 }, {
     "id": "15",
     "nome": "Sítio Arqueológico",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1c9b8.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1c9b8.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Lugar onde se localizam vestígios de atividade humana de culturas pretéritas que possa conter artefatos, estruturas e ecofatos em seu contexto original"
 }, {
     "id": "16",
     "nome": "Farol",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-7a2c9.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-7a2c9.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de faróis de auxílio à navegação em atividade, ou não, reconhecidos como de interesse de preservação"
 }, {
     "id": "17",
     "nome": "Centro de Cultura",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-cb704.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-cb704.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de casas de cultura, centros culturais, pinacotecas, cinematecas, arquivos e demais locais onde ocorram manifestações culturais"
 }, {
     "id": "18",
     "nome": "Biblioteca",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-61ac3.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-61ac3.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de bibliotecas abertas ao público"
 }, {
     "id": "19",
     "nome": "Esportes",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-d2e22.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-d2e22.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de "
 }, {
     "id": "20",
     "nome": "Esportes Equestres",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-932fa.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-932fa.jpg"
 }, {
     "id": "21",
     "nome": "Esportes Náuticos",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-9e31d.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-9e31d.jpg"
 }, {
     "id": "22",
     "nome": "Esportes Automobilísticos",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1defa.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1defa.jpg"
 }, {
     "id": "23",
     "nome": "Vôo Livre",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-c59f6.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-c59f6.jpg"
 }, {
     "id": "24",
     "nome": "Surfe",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-a128.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-a128.jpg"
 }, {
     "id": "25",
     "nome": "Futebol",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-44456.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-44456.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de estádios e outros locais para prática de futebol"
 }, {
     "id": "26",
     "nome": "Ciclismo",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-23268.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-23268.jpg"
 }, {
     "id": "27",
     "nome": "Praça",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-58dc1.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-58dc1.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de praças ou largos"
 }, {
     "id": "29",
     "nome": "Festas Populares",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-ebae8.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-ebae8.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de locais para realização de grandes festas típicas populares"
 }, {
     "id": "30",
     "nome": "Teatro",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-d8d79.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-d8d79.jpg"
 }, {
     "id": "31",
     "nome": "Convenções",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-3cc52.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-3cc52.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Auditórios e Centros de Convenções"
 }, {
     "id": "32",
     "nome": "Artesanato",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-68b9d.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-68b9d.jpg"
 }, {
     "id": "33",
     "nome": "Feira Típica",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-ac131.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-ac131.jpg"
 }, {
     "id": "34",
     "nome": "Exposição Agropecuária",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-80177.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-80177.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de locais para realização de exposição agropecuária"
 }, {
     "id": "35",
     "nome": "Rodeio",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1bc84.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-1bc84.jpg"
 }, {
     "id": "36",
     "nome": "Pavilhão de Feiras e Exposições",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-f3e59.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-f3e59.jpg"
 }, {
     "id": "37",
     "nome": "Terminal Rodoviário",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-71af5.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-71af5.jpg",
+    "descricao": "Categoria que possui a função de sinalizar a existência de Terminais de passageiros de ônibus urbano, interurbano ou rodoviário"
 }, {
     "id": "38",
     "nome": "Porto",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-73020.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-73020.jpg"
 }, {
     "id": "39",
     "nome": "Ponto de Parada",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-9c968.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-9c968.jpg"
 }, {
     "id": "40",
     "nome": "Estacionamento",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-54855.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-54855.jpg"
 }, {
     "id": "41",
     "nome": "Informações Turísticas",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-e6b9e.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-e6b9e.jpg",
+    "descricao": "Categoria que possui a função de sinalizar um local de informações para turistas"
 }, {
     "id": "42",
     "nome": "Correio",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-2641f.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-2641f.jpg",
+    "descricao": "Categoria que possui a função de sinalizar um local de prestação de serviços postais"
 }, {
     "id": "43",
     "nome": "Serviço Telefônico",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-44c90.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-44c90.jpg"
 }, {
     "id": "44",
     "nome": "Borracharia",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-504a3.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-504a3.jpg",
+    "descricao": "Categoria que possui a função de sinalizar um local de prestação de serviços de borracharia"
 }, {
     "id": "45",
     "nome": "Pronto Socorro",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-90c5f.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-90c5f.jpg"
 }, {
     "id": "46",
     "nome": "Serviço Sanitário",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-e7aa.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-e7aa.jpg"
 }, {
     "id": "47",
     "nome": "Montanha",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-3951c.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-3951c.jpg"
 }, {
     "id": "48",
-    "nome": "Banco",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-70fd9.jpg"}]
+    "nome": "Banco / Câmbio",
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-70fd9.jpg",
+    "descricao": "Categoria que possui a função de sinalizar um local de prestação de serviços financeiros e de câmbio"
 }, {
     "id": "49",
     "nome": "Serviços",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-34b9d.png"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-34b9d.png",
+    "descricao": "Categoria que possui a função de sinalizar serviços variados"
 }, {
     "id": "50",
     "nome": "Diversão",
-    "imagens": [{ "url": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-a0d02.jpg"}]
+    "imagem": "http://turismo-quissama.000webhostapp.com/uploads/categorias/c-a0d02.jpg",
+    "descricao": "Categoria que possui a função de sinalizar um lugar que proporcina serviços relacionados ao entretenimento"
 }]

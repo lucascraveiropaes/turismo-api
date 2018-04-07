@@ -11,6 +11,10 @@
 						array_push($result, $data[$i]);
 					}
 				}
+
+				if (count($result) == 0) {
+					$result	= null;
+				}
 			}
 			else {
 				$url = "./data/".$category.".json";
@@ -19,16 +23,30 @@
 				for ($i=0; $i < count($data); $i++) {
 					if($data[$i]->id == $id) {
 						$result = $data[$i];
+						$result->categoria = getCategoryById($result->categoria_id);
 					}
 				}
 			}
 		}
 
-		if (count($result) == 0) {
-			$result	= null;
+		return $result;
+	}
+
+	function getCategoryById($id) {
+		$categorias = json_decode( file_get_contents("./data/categorias.json") );
+		$return = null;
+
+		for ($i=0; $i < count($categorias); $i++) {
+			if ($categorias[$i]->id == $id) {
+				$return = new stdClass;
+				$return->id = $categorias[$i]->id;
+				$return->nome = $categorias[$i]->nome;
+				$return->imagem = $categorias[$i]->imagem;
+				$return->descricao = $categorias[$i]->descricao;
+			}
 		}
 
-		return $result;
+		return $return;
 	}
 
 	function utf8ize($d) {
