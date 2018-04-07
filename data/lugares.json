@@ -60,6 +60,55 @@
         "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/33-d481d.jpg"
     }]
 }, {
+    "id": "19",
+    "nome": "Praia de João Francisco",
+    "descricao": "<p>Mais bela praia Quissamã, com postos salva vidas e quiosques espalhados por toda a orla.</p>",
+    "informacoes": "<p>Lembre-se de não jogar lixo na praia</p><p>Telefone: 2768-9300</p>",
+    "endereco": "João Francisco",
+    "categoria_id": "4",
+    "latitude": "-22.2061268",
+    "longitude": "-41.4775259",
+    "circuito_id": "2",
+    "funcionamento_inicio": "10:00:00",
+    "funcionamento_fim": "17:00:00",
+    "imagens": [{
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/jf/1.jpg"
+        },
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/jf/2.jpg"
+        }
+    ]
+}, {
+    "id": "20",
+    "nome": "Cacimba Grande",
+    "descricao": "<p>Mais bela praia Quissamã, com postos salva vidas e quiosques espalhados por toda a orla.</p>",
+    "informacoes": "<p>Lembre-se de não jogar lixo na praia</p><p>Telefone: 2768-9300</p>",
+    "endereco": "Rua Antônio de Barcelos",
+    "categoria_id": "12",
+    "latitude": "-22.10648132",
+    "longitude": "-41.46506092",
+    "circuito_id": "3",
+    "funcionamento_inicio": "00:01:00",
+    "funcionamento_fim": "23:59:00",
+    "imagens": [{
+        "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/cacimba/1.jpg"
+    }]
+}, {
+    "id": "62",
+    "nome": "Correios",
+    "descricao": "<p>Agência dos correios</p>",
+    "informacoes": "<p>Telefone: 2768-1004</p><p>Telefone: 2768-1376</p>",
+    "endereco": "Rua Visconde de Quissama, 304",
+    "categoria_id": "42",
+    "latitude": "-22.1072876",
+    "longitude": "-41.4692797",
+    "circuito_id": "0",
+    "funcionamento_inicio": "09:00",
+    "funcionamento_fim": "17:00",
+    "imagens": [{
+        "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/correio/1.jpg"
+    }]
+}, {
     "id": "55",
     "nome": "Betos Bar",
     "descricao": "<p>Restaurante e Lachonete</p>",
@@ -321,8 +370,8 @@
 }, {
     "id": "6",
     "nome": " Fazenda Trindade",
-    "descricao": "<p>Concluída em 1909, a sede da Fazenda Trindade tem o estilo dos chalés românticos do fim do século XIX . Além da sede, encontram-se preservadas algumas moradias de colonos e uma antiga casa de farinha. Trabalhado em pedra mármore colorida, com um desenho que forma um relógio de sol, o terraço fronteiro foi trazido da Casa de Capivari. Hoje, a fazenda, além de servir como residência, produz coco e abacaxi e possui criação de gado. Horário de Funcionamento: As visitas devem ser agendadas com antecedência nas agências de turismo de Quissamã. </p>",
-    "informacoes": "<p><strong>Telefone:</strong> (22) 2768-1306<br><br><strong>Endereço:</strong> RJ 196, km 13</p>",
+    "descricao": "<p>Concluída em 1909, a sede da Fazenda Trindade tem o estilo dos chalés românticos do fim do século XIX . Além da sede, encontram-se preservadas algumas moradias de colonos e uma antiga casa de farinha. Trabalhado em pedra mármore colorida, com um desenho que forma um relógio de sol, o terraço fronteiro foi trazido da Casa de Capivari. Hoje, a fazenda, além de servir como residência, produz coco e abacaxi e possui criação de gado.</p>",
+    "informacoes": "<p><strong>Telefone:</strong> (22) 2768-1306<br><br><strong>Endereço:</strong> RJ 196, km 13<br><br><b>Visitas:</b><br>As visitas devem ser agendadas com antecedência nas agências de turismo de Quissamã.</p>",
     "endereco": "RJ 196, km 13, Quissamã",
     "categoria_id": "11",
     "latitude": "-22.1071124",
@@ -408,7 +457,7 @@
     "descricao": "<p>Cercado por uma vegetação original da restinga, o Espaço possui um grande acervo de originais e réplicas de peças antigas, como documentos, fotografias, plantas, postais, moedas, pinturas e mapas de Quissamã.</p>",
     "informacoes": "<p>Espaço aberto à visitações agendadas.</p></br><p>Celular: (22)99977-8828</p></br><p>Telefone: 2768-1365</p>",
     "endereco": "Estrada do Correio Imperial, 1834 - Piteiras",
-    "categoria_id": "17",
+    "categoria_id": "14",
     "latitude": "-22.1155382",
     "longitude": "-41.4818988",
     "circuito_id": "3",
