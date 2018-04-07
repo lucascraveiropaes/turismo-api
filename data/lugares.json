@@ -205,7 +205,7 @@
     "categoria_id": "14",
     "latitude": "-22.10451385",
     "longitude": "-41.47272817",
-    "circuito_id": "2",
+    "circuito_id": "1",
     "funcionamento_inicio": "6:00:00",
     "funcionamento_fim": "23:00:00",
     "imagens": [{
@@ -571,13 +571,13 @@
     "funcionamento_inicio": "10:00:00",
     "funcionamento_fim": "17:00:00",
     "imagens": [{
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/casaMachadnha/1.jpg"
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/casaMachadinha/1.jpg"
         },
         {
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/casaMachadnha/2.jpg"
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/casaMachadinha/2.jpg"
         },
         {
-            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/casaMachadnha/3.jpg"
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/casaMachadinha/3.jpg"
         }
     ]
 }]
