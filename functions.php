@@ -23,7 +23,9 @@
 				for ($i=0; $i < count($data); $i++) {
 					if($data[$i]->id == $id) {
 						$result = $data[$i];
-						$result->categoria = getCategoryById($result->categoria_id);
+						if ($category !== "recreacao" && $category !== "eventos") {
+							$result->categoria = getCategoryById($result->categoria_id);
+						}
 					}
 				}
 			}
@@ -62,7 +64,7 @@
 
 	function cmp($a, $b) {
 		if ($a->position == $b->position) {
-			return 1;
+			return -1;
 		}
 		return ($a->position < $b->position) ? 1 : -1;
 	}
@@ -89,10 +91,16 @@
 		for ($i=0; $i < count($data); $i++) {
 			$imagem = "";
 			$excerpt = "";
-			$position = 100;
+			$position = 300;
 
-			$stringsEqual = similar_text ( clearString($data[$i]->nome), clearString($query) );
-			$position = ( 100 / strlen(clearString($query)) ) * $stringsEqual;
+			$clearedName = clearString($data[$i]->nome);
+			$clearedQuery = clearString($query);
+
+			if ( ! strstr($clearedName, $clearedQuery) ) {
+				$stringsEqual = similar_text( $clearedName, $clearedQuery );
+
+				$position = ( 100 / strlen($clearedQuery) ) * $stringsEqual;
+			}
 
 			if (array_key_exists("imagens",$data[$i])) {
 				if (count($data[$i]->imagens) > 0)

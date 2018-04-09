@@ -107,6 +107,8 @@
     "funcionamento_fim": "17:00",
     "imagens": [{
         "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/correio/1.jpg"
+    }, {
+        "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/correio/2.jpeg"
     }]
 }, {
     "id": "55",
@@ -169,6 +171,15 @@
         },
         {
             "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pmano/2.jpg"
+        },
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pmano/3.jpg"
+        },
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pmano/4.jpg"
+        },
+        {
+            "url": "https://turismo-quissama.000webhostapp.com/uploads/lugares/pmano/5.jpg"
         }
     ]
 }, {
